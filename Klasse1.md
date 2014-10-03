@@ -1,12 +1,11 @@
 <script src="Klasse1/klang/web-export/processing.js"></script>
-<canvas data-processing-sources="Klasse1/klang/web-export/klang2.pde"></canvas>
+<canvas data-processing-sources="Klasse1/klang/web-export/klang.pde"></canvas>
 
 # Wissenschaft des Klangs
 
 # Klang
 
 <span style="color:red">Longitudinalwelle</span>
-
 
 
 
