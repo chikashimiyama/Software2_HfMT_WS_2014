@@ -1,5 +1,4 @@
-<script src="Klasse1/klang/web-export/processing.js"></script>
-<canvas data-processing-sources="Klasse1/klang/web-export/klang.pde"></canvas>
+
 
 # Wissenschaft des Klangs
 
@@ -8,9 +7,7 @@
 <span style="color:red">Longitudinalwelle</span>
 
 
-
-
-
+![sound](Klasse1/klang/fig.gif)
 
 
 ## Frequenz
