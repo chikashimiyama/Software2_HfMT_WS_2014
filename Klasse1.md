@@ -6,8 +6,7 @@
 
 <span style="color:red">Longitudinalwelle</span>
 
-
-![sound](Klasse1/klang/fig.gif)
+<img src="Klasse1/klang/fig.gif">
 
 
 ## Frequenz

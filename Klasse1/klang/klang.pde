@@ -31,3 +31,8 @@ void draw(){
    gifExport.setDelay(1);
   gifExport.addFrame();
 }
+
+void keyPressed() {
+  gifExport.finish();
+  println("gif saved");
+}
