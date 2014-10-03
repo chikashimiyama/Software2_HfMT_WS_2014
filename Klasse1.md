@@ -12,22 +12,20 @@ Dieser Kurs vermittelt Grundkenntnisse über Computermusik und über die Wissens
 Computer sind zurzeit notwendig für unser musikalisches Leben; man benötigt einen Computer, um Musik zu hören, aufzunehmen, zu bearbeiten, zu komponieren, zu arrangieren, und zu teilen. Allerdings ist der Computer nichts anderes als eine Maschine, die im Prinzip Zahlen nur berechnen und speichern kann.
 Wie behandelt eine solche Maschine Musik und Klang? Der Kurs beantwortet diese Frage und stellt relevante Technologien und Begriffe, bspw. MIDI, Sampling und Klangsynthese vor.
 
-1. Wissenschaft des Klangs
-2. Digital Audio I
-3. Digital Audio II
-4. Mikrofone
-5. MIDI (Musical Instrument Digital Interface)
-6. Klangsynthese I
-7. Klangsynthese II
-8. Klanganalyze mit Computer
-9. Spatialisierung
-10. Klangverarbeitung I
-11. Klangverarbeitung II
-
 ## Prüfungen
 1. Anfang Dezember (Schriftlich / im Studio / 45 Minuten)
 2. Ende Februar (Schriftlich / im Studio / 90 Minuten)
 
-
+## Plan
+1. Wissenschaft des Klangs
+2. MIDI (Musical Instrument Digital Interface)
+3. Computer und Digital Audio
+4. Mikrofone
+5. Klangsynthese I
+6. Klangsynthese II
+7. Klanganalyze mit Computer
+8. Spatialisierung
+9. Klangverarbeitung I
+10. Klangverarbeitung II
 
 ## Hello Max
