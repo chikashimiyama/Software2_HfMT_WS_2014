@@ -27,7 +27,3 @@ Wie behandelt eine solche Maschine Musik und Klang? Der Kurs beantwortet diese F
 ## Prüfungen
 1. Anfang Dezember (Schriftlich / im Studio / 45 Minuten)
 2. Ende Februar (Schriftlich / im Studio / 90 Minuten)
-
-
-
-## Hello Max
