@@ -2,19 +2,20 @@ import gifAnimation.*;
 GifMaker gifExport;
 PImage man;
 float offset = 50;
+int frame = 0;
 void setup(){
   size(640, 200); 
   man = loadImage("man.gif");
-  frameRate(10);
+  frameRate(20);
   gifExport = new GifMaker(this, "fig.gif");
+  gifExport.setQuality(10);
   gifExport.setRepeat(0); // make it an "endless" animation
-  //gifExport.setTransparent(0,0,0); // make black the transparent color. every black pixel in the animation will be transparent
+  gifExport.setDelay(1000/20);
 
 }
 
 void draw(){
-      background(255); 
-
+  background(255); 
   fill(233);
   noStroke();
   for(int i = 50; i >= 0; i--){
@@ -28,11 +29,14 @@ void draw(){
  stroke(3);
  rect(0, 170, width, height);
  image(man, 720/2 - man.width, 78);
-   gifExport.setDelay(1);
   gifExport.addFrame();
+  frame++;
+  if(frame > 19){
+      gifExport.finish();
+      exit();
+  }
+  
+  
+  
 }
 
-void keyPressed() {
-  gifExport.finish();
-  println("gif saved");
-}
