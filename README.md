@@ -1,4 +1,4 @@
-# Software II : Musik am Computer
+# Software 2 : Musik am Computer
 Zeit: Mon. 14:00 - 15:30
 Ort: Studio für Elektronische Musik
 
