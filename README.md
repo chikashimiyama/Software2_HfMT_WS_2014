@@ -4,9 +4,6 @@ Ort: Studio für Elektronische Musik
 
 [Dr. Chikashi Miyama](http://chikashi.net)
 
-## Termine und Anwesenheitsliste
-- [Anwesenheitsliste](https://docs.google.com/spreadsheets/d/1bDR6DYntKoB9CuTNMOESauQfBiYvT5ouLtFx_m2jD68/edit#gid=0)
-
 ## Bemerkungen
 Dieser Kurs vermittelt Grundkenntnisse über Computermusik und über die Wissenschaft des Klangs.
 Computer sind zurzeit notwendig für unser musikalisches Leben; man benötigt einen Computer, um Musik zu hören, aufzunehmen, zu bearbeiten, zu komponieren, zu arrangieren, und zu teilen. Allerdings ist der Computer nichts anderes als eine Maschine, die im Prinzip Zahlen nur berechnen und speichern kann.
