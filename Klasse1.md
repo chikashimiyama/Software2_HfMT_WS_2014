@@ -13,7 +13,8 @@
 
 
 **Wellenform (waveform)**
-![](Klasse1/Wellenform.jpg)
+
+![](Klasse1/wellenform.jpg)
 
 ### Schallgeschwindigkeit
 Die Schallgeschwindigkeit in trockener Luft von 20 °C ist **343** m/s.
@@ -22,6 +23,12 @@ Die Schallgeschwindigkeit in trockener Luft von 20 °C ist **343** m/s.
 
 - [Weißesrauschen 30 msek](Klasse1/30ms.wav)
 - [Weißesrauschen 300 msek](Klasse1/300ms.wav)
+
+
+### Experiment 1 / Klangvisualisierung
+
+- [AudioXplorer](http://www.arizona-software.ch/audioxplorer/)
+![](Klasse1/audioxplorer.png)
 
 ## Zwei Typen
 
@@ -35,7 +42,7 @@ Ursache für ein Geräusch sind Schwingungsvorgänge, die in der Regel *nicht pe
 
 ![](Klasse1/snare_wave.png ) Snare Drum
 
-### Experiment 1 / Klang aus Geräusch
+### Experiment 2 / Klang aus Geräusch
 
 - [Movie](http://youtu.be/9PJXH1XCv2s)
 
@@ -70,7 +77,7 @@ Frequenzbereich von Schall, der vom menschlichen Gehör wahrgenommen werden kann
 
 ![](Klasse1/Okt.png)
 
-### Experiment 2 / Hörtest
+### Experiment 3 / Hörtest
 
 - [Movie](http://youtu.be/Vn9NiubJMcw)
 - [Pd Patch Herunterladen](exp2.pd)
@@ -81,7 +88,7 @@ Frequenzbereich von Schall, der vom menschlichen Gehör wahrgenommen werden kann
 ### Schwebung
 die Resultierende der additiven Überlagerung zweier Schwingungen, die sich in ihrer Frequenz nur wenig voneinander unterscheiden, so dass es zu Interferenz kommt.
 
-### Experiment 3 / Hörtest
+### Experiment 4 / Hörtest
 
 - [Pd Patch Herunterladen](exp2.pd)
 
@@ -89,7 +96,7 @@ die Resultierende der additiven Überlagerung zweier Schwingungen, die sich in i
 #### Musikalische Anwendung
 
 - Alivin Lucier, Crossings (1984)
-- [Crossings] (https://www.youtube.com/watch?v=JHkoZqmfwjI)
+- [Crossings](https://www.youtube.com/watch?v=JHkoZqmfwjI)
 
 ## Periodendauer (wavelength)
 Periodendauer = 1 / Frequenz
@@ -113,7 +120,6 @@ Die maximale Elongation einer Schwingung, von der Position der Null-Linie aus ge
 
 ![](Klasse1/2d.png)
 
-
 ## Phase
 Die aktuelle Position im Ablauf eines periodischen Vorgangs.
 ![](Klasse1/phase.png)
@@ -123,10 +129,9 @@ Die aktuelle Position im Ablauf eines periodischen Vorgangs.
 
 Eine Welle trifft auf eine andere Welle. Diese Wellen sind  gegensätzlich (Wellenberg trifft auf Wellental und umgekehrt), kommt es zur destruktiven Interferenz. Die Wellen verringert ihre Auslenkungen gegenseitig und im Extremfall kommt es zur Auslöschung.
 
-
 ![](Klasse1/phaseausloesung.png)
 
-### Experiment 4 / Phasenauslöschung
+### Experiment 5 / Phasenauslöschung
 
 [Movie](http://youtu.be/rJWxxHmiPeA)
 
@@ -138,8 +143,6 @@ die Wellenform bestimmt ihre Klangfarbe
 ![](Klasse1/guitar_wave.png) Gitarre
 
 ![](Klasse1/clarinet_wave.png) Klarinette
-
-
 
 [Pd Patch Herunterladen](exp3.pd)
 
@@ -156,8 +159,6 @@ die Wellenform bestimmt ihre Klangfarbe
 - [Rechteck](Klasse1/square.wav)
 - [Dreieck](Klasse1/tri.wav)
 - [Sägezahn](Klasse1/saw.wav)
-
-ed/Vn9NiubJMcw" frameborder="0" allowfullscreen></iframe>
 
 ## Terminologien
 
