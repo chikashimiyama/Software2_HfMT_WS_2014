@@ -129,13 +129,13 @@ Obertöne sind Sinustöne, die zu einem (ebenfalls sinusförmigen) Grundton hinz
 
 |Oberton|Frequenz|Amplitude|
 |----|-----|---|
-|1	 |200	 |7  |
-|2	 |400	 |0  |
-|3	 |600	 |6  |
-|4	 |800	 |0.3|
-|5	 |1000 |3.5|
-|6	 |1200 |0.2|
-|7	 |1400 |0.5|
+|Grund Ton	 |200	 |7  |
+|1	 |400	 |0  |
+|2	 |600	 |6  |
+|3	 |800	 |0.3|
+|4	 |1000 |3.5|
+|5	 |1200 |0.2|
+|6	 |1400 |0.5|
 
 ### Additive Synthese
 Bei der additiven Synthese werden einzelne Klänge durch die Addition verschiedener Sinuswellen erzeugt.
