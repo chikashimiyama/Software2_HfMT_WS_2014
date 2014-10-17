@@ -32,3 +32,5 @@ ist eine Maßeinheit, das für eine Folge von **8 Bit** steht.
 - mega byte (MB) = 1024 KB
 - giga byte (GB) = 1024 MB
 - tera byte (TB) = 1024 GB
+
+## Quantisierung
