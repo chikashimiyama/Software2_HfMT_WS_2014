@@ -104,8 +104,11 @@ wird verwendet, um digitale Signale oder einzelne Werte in analoge Signale umzus
 
 1. Nehmen Sie einen 1 sekundigen Klang auf.
 2. Takten Sie mit "resampling" den aufgenommenen Klang herunter.
-3. Speichern Sie den Original Klang und zwei heruntetaktete Klänge ( SR=5000 Hz , 1000 Hz);
-4. Schicken Sie diese drei Klangdateien an mich [me(at)chikashi.net]
+3. Speichern Sie den Original Klang und zwei heruntetaktete Klänge ( SR=6000 Hz , 1000 Hz);
+4. Schicken Sie diese drei Klangdateien (bzw. SR = 44100 Hz, 6000 Hz, 1000 Hz) an mich [me(at)chikashi.net]
+
+[Anweisung auf Youtube](https://www.youtube.com/watch?v=zzDMfk1s-Yc&feature=youtu.be)
+
 
 ## Terminologien
 
