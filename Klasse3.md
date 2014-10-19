@@ -30,8 +30,11 @@ Man kann die Farbe mancher Objekten in Max mit "RGB Slider" ändern.
 ![](Klasse3/rgb.png)
 
 ## Klang und Zahlen
+
+** Digitalisierung ist ein Art von Informationsreduktion**
+
 ### Abtastung (Sampling)
-Unter Abtastung (englisch sampling) wird in der Signalverarbeitung die Registrierung von Messwerten zu diskreten, meist äquidistanten Zeitpunkten verstanden. Aus einem zeitkontinuierlichen Signal wird so ein zeitdiskretes Signal gewonnen.
+Unter Abtastung wird in der Signalverarbeitung die Registrierung von Messwerten zu diskreten, meist äquidistanten Zeitpunkten verstanden. Aus einem zeitkontinuierlichen Signal wird so ein zeitdiskretes Signal gewonnen.
 
 ![](Klasse3/sampling.png)
 
@@ -64,7 +67,9 @@ Mit "capture~" kann man die Abtastwerte anzeigen.
 
 ## Nyquist-Frequenz
 Die Nyquist-Frequenz definiert als die **halbe Abtastrate**.
-Nach dem  Nyquist-Shannon-Abtasttheorem müssen alle Anteile in einem Signal kleinere Frequenzen als die Nyquist-Frequenz haben, damit das abgetastete Signal rekonstruiert werden kann:
+Nach dem  Nyquist-Shannon-Abtasttheorem müssen alle Anteile in einem Signal kleinere Frequenzen als die Nyquist-Frequenz haben, damit das abgetastete Signal rekonstruiert werden kann.
+
+z.B. CD = Abtastrate 44100 Hz = Nyqyust-Frequnez 22050 Hz.
 
 ## Aliasing
 Aliasing ist Signalanalyse Fehler, die auftreten, wenn im abzutastenden Signal Frequenzanteile vorkommen, die höher als die Nyquist-Frequenz (halbe Abtastfrequenz) sind.
@@ -82,7 +87,7 @@ Mit Max ein Aliasing produzieren.
 ## Heruntertaktung (Downsampling)
 bezeichnet die Reduktion der Stützstellen einer Zeitreihe  diskreter Werte.
 
-
+![](Klasse3/downsample.gif)
 
 ## ADC/ DAC
 
@@ -99,7 +104,7 @@ wird verwendet, um digitale Signale oder einzelne Werte in analoge Signale umzus
 
 1. Nehmen Sie einen 1 sekundigen Klang auf.
 2. Takten Sie mit "resampling" den aufgenommenen Klang herunter.
-3. Speichern Sie den Original Klang und zwei heruntetaktete Klange ( SR=5000 Hz , 1000 Hz);
+3. Speichern Sie den Original Klang und zwei heruntetaktete Klänge ( SR=5000 Hz , 1000 Hz);
 4. Schicken Sie diese drei Klangdateien an mich [me(at)chikashi.net]
 
 ## Terminologien
@@ -108,13 +113,14 @@ wird verwendet, um digitale Signale oder einzelne Werte in analoge Signale umzus
 2. Pixel
 3. Digitalsignal
 4. Zeitdiskretes Signal
-5. Abtastung (Sampling)
-6. Abtastrate (Sampling Rate)
-7. Abtastrate von CD
-8. Nyquist-Frequenz
-9. Aliasing
-10. Quantisierung
-11. Heruntertaktung (Downsampling)
-12. ADC
-13. DAC　
-14. Digitale Signalverarbeitung (Digital Signal Processing)
+5. Zeitkontinuierliches Signal
+6. Abtastung (Sampling)
+7. Abtastrate (Sampling Rate)
+8. Abtastrate von CD
+9. Nyquist-Frequenz
+10. Aliasing
+11. Quantisierung
+12. Heruntertaktung (Downsampling)
+13. ADC
+14. DAC　
+15. Digitale Signalverarbeitung (Digital Signal Processing)
