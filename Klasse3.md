@@ -2,7 +2,10 @@
 
 **"Computer versteht nur Zahlen"**
 
-## Ascii code
+## Ascii (American Standard Code for Information Interchange)
+ist eine 7-Bit-Zeichenkodierung.
+Die Zeichenkodierung definiert 128 Zeichen, bestehend aus 33 nicht druckbaren sowie 95 druckbaren Zeichen.
+Die druckbaren Zeichen umfassen das lateinische Alphabet in Groß- und Kleinschreibung, die zehn arabischen Ziffern sowie einige Satzzeichen.
 
 ![](Klasse3/ascii.png)
 
@@ -31,7 +34,7 @@ Man kann die Farbe mancher Objekten in Max mit "RGB Slider" ändern.
 
 ## Klang und Zahlen
 
-** Digitalisierung ist ein Art von Informationsreduktion**
+**"Digitalisierung ist ein Art von Informationsreduktion"**
 
 ### Abtastung (Sampling)
 Unter Abtastung wird in der Signalverarbeitung die Registrierung von Messwerten zu diskreten, meist äquidistanten Zeitpunkten verstanden. Aus einem zeitkontinuierlichen Signal wird so ein zeitdiskretes Signal gewonnen.
@@ -80,7 +83,7 @@ Aliasing kann einerseits durch die Nichtbeachtung des Abtasttheorems (zu geringe
 
 ### Experiment 4
 
-Mit Max ein Aliasing produzieren.
+- Aliasing-Experiment in Max
 
 ![](Klasse3/aliasing.png)
 
@@ -112,7 +115,7 @@ wird verwendet, um digitale Signale oder einzelne Werte in analoge Signale umzus
 
 ## Terminologien
 
-1. Ascii Code
+1. Ascii 
 2. Pixel
 3. Digitalsignal
 4. Zeitdiskretes Signal
