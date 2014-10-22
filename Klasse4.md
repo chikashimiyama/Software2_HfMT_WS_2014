@@ -2,6 +2,8 @@
 
 ![](Klasse4/32bit.png)
 
+32-bit float?
+
 ## Binärsystem
 ist ein Zahlensystem, das zur Darstellung von Zahlen nur zwei verschiedene Ziffern benutzt.
 Im üblichen Dezimalsystem werden die Ziffern 0 bis 9 verwendet. Im Dualsystem hingegen werden Zahlen nur mit den Ziffern des Wertes Null und Eins dargestellt. Oft werden für diese Ziffern die Symbole 0 und 1 verwendet.
@@ -40,10 +42,12 @@ Berechnen Sie den maximalen Wert (Anzahl der Zusätnde) mit folgender Anzahl von
 Ein Nibble ist eine Datenmenge, die 4 Bits umfasst, es wird auch Halbbyte genannt.
 
 ## Byte
+
 ist eine Maßeinheit, das für eine Folge von **8 Bit** steht.
+mit 1 Byte kann mann 256 (2 hoch 8) Zustände darstellen.
+
 ![](Klasse3/switches.gif)
 
-mit 1 Byte kann mann 256 (2 hoch 8) Zustände darstellen.
 
 ## KB, MG, GB, TB
 - kilo byte (KB) = 1024 Bytes
@@ -64,12 +68,15 @@ gibt die Anzahl der Bits an, die bei der Digitalisierung eines analogen Signals 
 Die Anzahl der Quantisierungsstufen beschreibt die Auflösung des vorhandenen Wertebereiches bei der Wandlung eines analogen Signals in ein digitales (vergleiche Quantisierung ). Je mehr Quantisierungsstufen verwendet werden desto feiner wird die Amplitude des zu wandelnden Signals erfasst.
 
 ---
+
 8 bits = 0~255 = -128~127
 ![](Klasse4/8bit.jpg)
 
 ---
+
 4 bits = 0~15 = -8~7
 ![](Klasse4/4bit.jpg)
+
 ---
 
 ## Quantisierungsfehler (Quantization Error)
@@ -99,7 +106,6 @@ Der Quantisierungsfehler ist der Fehler, der bei der Quantisierung von analogen 
 
 ## Audio-Interface
 **"Das Audiointerface bildet das Herzstück eines modernen Tonstudios"**
-
 
 Laptop und Audio - Stereo Eingänge + Stereo Ausgänge
 ![](Klasse4/laptop.png)
@@ -142,6 +148,8 @@ Zurzeit haben meiste Audio-Interfaces einen USB Anschluss.
 
 #### Signal-Rausch-Verhältnis (S/N Ratio)
 ist ein Maß für die technische Qualität eines Nutzsignals (z. B. Sprache ), das von einem Rauschsignal überlagert ist. Es ist definiert als das Verhältnis der mittleren Leistung des Nutzsignals zur mittleren Rauschleistung des Störsignals.
+
+
 
 #### Dynamikumfang (Dynamic Range)
 In der Tontechnik gibt der Dynamikumfang eines Audiosystems den Bereich an, in dem sich der Pegel des Tonsignals nutzbringend bewegen kann, sei es für Aufzeichnung, Sendung oder Wiedergabe. Dieser Wert wird meistens in dB angegeben.
