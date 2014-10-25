@@ -92,6 +92,11 @@ Der Quantisierungsfehler ist der Fehler, der bei der Quantisierung von analogen 
 - MD(Mini Disc) = 24 bits
 - DVD Audio / Blu-ray = 24 bits
 
+
+
+![](Klasse4/cdsurface.jpg)
+
+
 ## Experiment 1
 
 - Verarbeiten Sie mit degrade~ verschiedene Klänge.
@@ -103,6 +108,62 @@ Der Quantisierungsfehler ist der Fehler, der bei der Quantisierung von analogen 
 
 - Mit degrade~ die Bittiefe von Sägezahn, Sinus, Saw und Rechteck verändern.
 ![](Klasse4/rect.png)
+
+## Abtastrate + Quntisierung Matrix
+
+| Bit depth / SR  |  	8kHz                       | 44.1kHz                            | 	48kHz                           | 96kHz                           |
+|-----------------|------------------------------|------------------------------------|-----------------------------------|---------------------------------|
+| 8 bit	          |[960KB](Klasse4/8kHz8bit.wav) |	[5.2MB](Klasse4/44.1kHz8bit.wav)  | [5.6MB](Klasse4/48kHz8bit.wav)    | [11.2MB](Klasse4/96kHz8bit.wav) |
+| 16 bit          |[1.9MB](Klasse4/8kHz16bit.wav)| [10.3MB](Klasse4/44.1kHz16bit.wav) | [11.2MB](Klasse4/48kHz16bit.wav)  | [22.5MB](Klasse4/96kHz16bit.wav)|
+| 24 bit          |[2.8MB](Klasse4/8kHz24bit.wav)| [15.5MB](Klasse4/44.1kHz24bit.wav) | [16.9MB](Klasse4/48kHz24bit.wav)  |[33.8MB](Klasse4/96kHz24bit.wav) |
+
+## Formate der Audiodateien (Sound files)
+
+- Drei Typen
+  - keine Datenkompression (uncompressed)
+  - verlustbehaftete Kompression (lossy compression)
+  - verlustfreie Kompression (lossless compression)
+
+### Keine Datenkompression
+####AIFF
+- Audio Interchange File Format
+- Entwickelt von: Apple
+- keine Datenkompression
+- [Klangbeispiel 10.8MB](Klasse4/44.1kHz16bit.aiff)
+
+####WAV
+- Entwickelt von: Microsoft und IBM
+- keine Datenkompression
+- [Klangbeispiel 10.8MB](Klasse4/44.1kHz16bit.wav)
+
+### verlustbehaftete Kompression
+####MP3
+- MPEG 1 Layer III
+- Entwickelt von: Fraunhofer Institute
+- verlustbehafteten Kompression (lossy compression)
+- MP3 bedient sich dabei der Psychoakustik mit dem Ziel, nur für den Menschen wahrnehmbare Signalanteile zu speichern. Dadurch wird bei nicht oder nur kaum verringerter wahrgenommener Audioqualität eine starke Reduktion der Datenmenge möglich
+- [Klangbeispiel 986KB](Klasse4/44.1kHz16bit.mp3)
+
+####AAC
+- Advanced Audio Codec
+- Entwickelt von: Bell Labs, Fraunhofer Institute, Dolby Labs, Sony and Nokia
+- verlustbehafteten Kompression (lossy compression)
+- Bei geringerer Komplexität als MP3 sind bei gleicher Datenrate bessere Qualitäten erreichbar
+- [Klangbeispiel 2MB](Klasse4/44.1kHz16bit.m4a)
+
+### verlustfreie Kompression
+####FLAC
+- Free Lossless Audio Codec
+- Entwickelt von: Org Foundation
+- verlustfreie Kompression
+- Open Source
+- [Klangbeispiel 3.9MB](Klasse4/44.1kHz16bit.flac)
+
+#### Apple lossless
+
+- Entwickelt von: Apple
+- verlustfreie Kompression
+- [Klangbeispiel 3.8MB](Klasse4/44.1kHz16bit_lossless.m4a)
 
 ## Audio-Interface
 **"Das Audiointerface bildet das Herzstück eines modernen Tonstudios"**
@@ -146,10 +207,10 @@ Zurzeit haben meiste Audio-Interfaces einen USB Anschluss.
 
 ### Wie sollen wir **gute Audioqualität** definieren?
 
+Ein Paar Kriterien:
+
 #### Signal-Rausch-Verhältnis (S/N Ratio)
 ist ein Maß für die technische Qualität eines Nutzsignals (z. B. Sprache ), das von einem Rauschsignal überlagert ist. Es ist definiert als das Verhältnis der mittleren Leistung des Nutzsignals zur mittleren Rauschleistung des Störsignals.
-
-
 
 #### Dynamikumfang (Dynamic Range)
 In der Tontechnik gibt der Dynamikumfang eines Audiosystems den Bereich an, in dem sich der Pegel des Tonsignals nutzbringend bewegen kann, sei es für Aufzeichnung, Sendung oder Wiedergabe. Dieser Wert wird meistens in dB angegeben.
