@@ -136,7 +136,7 @@ Der Quantisierungsfehler ist der Fehler, der bei der Quantisierung von analogen 
 - keine Datenkompression
 - [Klangbeispiel 10.8MB](Klasse4/44.1kHz16bit.wav)
 
-### verlustbehaftete Kompression
+### Verlustbehaftete Kompression
 ####MP3
 - MPEG 1 Layer III
 - Entwickelt von: Fraunhofer Institute
@@ -151,7 +151,7 @@ Der Quantisierungsfehler ist der Fehler, der bei der Quantisierung von analogen 
 - Bei geringerer Komplexität als MP3 sind bei gleicher Datenrate bessere Qualitäten erreichbar
 - [Klangbeispiel 2MB](Klasse4/44.1kHz16bit.m4a)
 
-### verlustfreie Kompression
+### Verlustfreie Kompression
 ####FLAC
 - Free Lossless Audio Codec
 - Entwickelt von: Org Foundation
@@ -233,6 +233,12 @@ Der Frequenzgang ist ein Maß für das Verhältnis der Pegelabweichungen zueinan
 11. Bittiefe
 12. Quantisierungsstufe
 13. Quantisierungsfehler
+14. AIFF
+15. WAV
+15. MP3
+15. AAC
+16. FLAC
+17. Apple lossless
 14. Audio Interface
 15. USB / USB Kabel
 16. Signal-Rausch-Verhältnis (S/N Ratio)
