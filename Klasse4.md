@@ -6,7 +6,7 @@
 
 ## Binärsystem
 ist ein Zahlensystem, das zur Darstellung von Zahlen nur zwei verschiedene Ziffern benutzt.
-Im üblichen Dezimalsystem werden die Ziffern 0 bis 9 verwendet. Im Dualsystem hingegen werden Zahlen nur mit den Ziffern des Wertes Null und Eins dargestellt. Oft werden für diese Ziffern die Symbole 0 und 1 verwendet.
+Im üblichen Dezimalsystem werden die Ziffern 0 bis 9 verwendet. Im Binärsystem hingegen werden Zahlen nur mit den Ziffern des Wertes Null und Eins dargestellt. Oft werden für diese Ziffern die Symbole 0 und 1 verwendet.
 
 ## Dezimalsystem
 ist ein Zahlensystem, das als Basis die Zahl 10 verwendet.
@@ -16,8 +16,8 @@ ist ein Zahlensystem, das als Basis die Zahl 10 verwendet.
 [Das Binärsystem](http://www.arndt-bruenner.de/mathe/Allgemein/binaersystem.htm)
 
 ## Quiz 1
+Konvertieren Sie die folgende Bainäre Zahlen auf Dezimal.
 
-Konvertieren Sie die folgende Bainäre Zahlen auf Dezimal
 1. 10
 2. 101
 3. 1001
@@ -27,10 +27,10 @@ Konvertieren Sie die folgende Bainäre Zahlen auf Dezimal
 
 ## Quiz 2
 
-Berechnen Sie den maximalen Wert (Anzahl der Zusätnde) mit folgender Anzahl von bits.
+Berechnen Sie die maximale Werte (Anzahl der Zusätnde) mit folgenden bits.
 
-1. 7 bits
-2. 4 bits
+1. 4 bits
+2. 7 bits
 3. 16 bits
 4. 24 bits
 5. 32 bits
@@ -42,7 +42,6 @@ Berechnen Sie den maximalen Wert (Anzahl der Zusätnde) mit folgender Anzahl von
 Ein Nibble ist eine Datenmenge, die 4 Bits umfasst, es wird auch Halbbyte genannt.
 
 ## Byte
-
 ist eine Maßeinheit, das für eine Folge von **8 Bit** steht.
 mit 1 Byte kann mann 256 (2 hoch 8) Zustände darstellen.
 

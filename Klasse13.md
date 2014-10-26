@@ -19,7 +19,7 @@
 2. Flanger
 3. Chorus
 4. Reverb
-5. 
+5.
 6.
 7.
 8.
