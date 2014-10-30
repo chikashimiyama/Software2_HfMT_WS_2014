@@ -8,16 +8,16 @@ Webseite : [http://www.midi.org/index.php](http://www.midi.org/index.php)
 ### Protokoll / Kommunikationsprotokoll (protocol)
 In der Informatik und in der Telekommunikation ist ein Kommunikationsprotokoll eine Vereinbarung, nach der die Datenübertragung zwischen zwei oder mehreren Parteien abläuft. In seiner einfachsten Form kann ein Protokoll definiert werden als die Regeln, die Syntax, Semantik und Synchronisation der Kommunikation bestimmen. Protokolle können durch Hardware, Software oder eine Kombination von beiden implementiert werden. Auf der untersten Ebene definiert ein Protokoll das Verhalten der Verbindungs-Hardware.
 
-
-
 ## Hintergrund
 ![](Klasse5/MIDI_Idee.png)
 
+### Elektronische Musik Studio
+
+![](Klasse5/studio_now.jpg)![](Klasse5/studio_50years.gif)
+Heute / vor 50 Jaren
 
 ### MIDI-Sequenzer (Sequencer)
 Ein Sequenzer ist ein Gerät oder ein Musikprogramm, mit dem man Rhythmen und ganze Stücke erstellst. Diese in Taktschritte unterteilten Sequenzen werden in einer festgelegten Geschwindigkeit abgespielt. Ein Sequenzer allein gibt keine Klänge von sich, er ist lediglich ein Container, in dem alle MIDI-Informationen gespeichert werden. Die Rhythmen und Melodien (MIDI-Messages) werden erst durch Klangerzeuger (Sound Module oder Software Synthesizer) in Hörbares vertont.
-
-
 
 
 #### Geschichte
@@ -34,10 +34,6 @@ Ein Sequenzer ist ein Gerät oder ein Musikprogramm, mit dem man Rhythmen und ga
 
 
 - [Ursprung der Sequenzer](http://www.thomann.de/de/onlineexpert_page_sequenzer_ursprung_der_sequenzer.html)
-
-## MIDI Kabel
-
-![midi-cable.jpg](Klasse5/midi-cable.jpg)
 
 ### Sampler
 Ein Sampler ist ein elektronisches, meistens über MIDI ansteuerbares Musikinstrument, das Töne jeglicher Art aufnehmen und auf Tastendruck in verschiedener Tonhöhe wiedergeben kann.
@@ -108,10 +104,10 @@ Yamaha Miburi / Michel Waisvisz und sein DIY MIDI Instrument "the Hand"
 
 ### DIY MIDI Controller
 
-### Elektronische Musik Studio
+### MIDI Kabel
 
-![](Klasse5/studio_now.jpg)![](Klasse5/studio_50years.gif)
-Heute / vor 50 Jaren
+![midi-cable.jpg](Klasse5/midi-cable.jpg)
+
 
 
 ## Ein Buch über die Entwicklung des Synthesizers
@@ -119,6 +115,44 @@ Heute / vor 50 Jaren
 ![](Klasse5/soundsynthesis_and_sampling.jpg)
 
 Martin Russ,Focal Press Verlag, Englisch, ISBN-10 0240521056, 568 Seiten
+
+
+## Standard MIDI File (SMF)
+
+SMF File (MAC)
+![](Klasse5/smf.png)
+Das SMF-Format ist kein Format unter dem Audiofiles gespeichert werden, wie das Waveform Audio File Format (WAV) oder das Audio Interchange File Format (AIFF), es beschreibt vielmehr eine Liste von Ereignissen mit denen eine Soundkarte oder ein Wiedergabegerät den entsprechende Klang erzeugen können. Dadurch sind die MIDI-Dateien sehr viel kleiner als digitale Audiodateien, und die Ereignisse und Klänge sind editierbar, wodurch die Musik neu arrangiert, editiert und interaktiv Komponiert werden kann.
+
+## General MIDI
+![](Klasse5/GM_motivation.png)
+
+General MIDI (GM) standardisiert weit mehr als der generelle MIDI-Standard. Ist dieser mehr oder weniger eine Hardware- und Protokoll-Spezifikation, legt General-MIDI auch Inhalte fest. GM setzt dabei einen Mindeststandard für die Belegung der Instrumente auf den 128 Programmplätzen. Nach GM muss ein kompatibler Klangerzeuger 24 Klänge gleichzeitig erzeugen können. Ferner sind nach GM weitere Steuerungsparameter definiert, wie z. B. die Effektsteuerung.
+
+
+- [General MIDI SoundSet](http://www.midi.org/techspecs/gm1sound.php)
+
+![](Klasse5/GM_Lösung.png)
+
+
+## Software Synthesizer
+
+![](Klasse5/Softsynth.png)
+
+Ein Software-Synthesizer oder Softsynth ist ein Computerprogramm, das einen Hardware-Synthesizer digital nachstellt (simuliert) oder sich davon inspirieren lässt. Mitte der 1990er Jahre wurden Personal Computer leistungsfähig genug, um Software-Synthesizer verzögerungsfrei über eine MIDI-Tastatur spielbar zu machen. Das sorgte für eine große Popularität solcher Programme. Sie ersetzen und ergänzen seitdem zunehmend die wesentlich teureren und häufig schwergewichtigen Hardware-Synthesizer auch in großen Tonstudios.
+
+### Typische Protokolle des Softwaresynthesizers
+- VST
+- AU
+- RTAS
+
+
+#### Bekannte Softsynth Hersteller
+- [Vienna Symphonic Library](http://www.vsl.co.at/en/211/442/607.vsl)
+- [Native Instruments](http://www.native-instruments.com/en/)
+
+
+- [Le sacre du printemps von Vienna Symphonic Library](Klasse5/Rite_of_Spring_Part1_complete_A_Kiss_of_the_Earth.mp3)
+- [Online Laden der Softwaresynthsizers](http://www.ilio.com)
 
 ## Experiment 1
 
@@ -139,50 +173,29 @@ Martin Russ,Focal Press Verlag, Englisch, ISBN-10 0240521056, 568 Seiten
 
 ![](Klasse5/msb_lsb.png)
 
-## General MIDI
-standardisiert weit mehr als der generelle MIDI-Standard. Ist dieser mehr oder weniger eine Hardware- und Protokoll-Spezifikation, legt General-MIDI auch Inhalte fest. GM setzt dabei einen Mindeststandard für die Belegung der Instrumente auf den 128 Programmplätzen. Nach GM muss ein kompatibler Klangerzeuger 24 Klänge gleichzeitig erzeugen können. Ferner sind nach GM weitere Steuerungsparameter definiert, wie z. B. die Effektsteuerung.
-
-- [General MIDI SoundSet](http://www.midi.org/techspecs/gm1sound.php)
-
-
-## Standard MIDI File (SMF)
-
-SMF File (MAC)
-
-![](Klasse5/smf.png)
-
-## Software Synthesizer
-Ein Software-Synthesizer oder Softsynth ist ein Computerprogramm, das einen Hardware-Synthesizer digital nachstellt (simuliert) oder sich davon inspirieren lässt. Mitte der 1990er Jahre wurden Personal Computer leistungsfähig genug, um Software-Synthesizer verzögerungsfrei über eine MIDI-Tastatur spielbar zu machen. Das sorgte für eine große Popularität solcher Programme. Sie ersetzen und ergänzen seitdem zunehmend die wesentlich teureren und häufig schwergewichtigen Hardware-Synthesizer auch in großen Tonstudios.
-
-- VST
-- AU
-- RTAS
-
-
 
 
 ## Terminologien
 
 1. MIDI
 2. Protokoll
-2. MIDI Message
-3. MIDI Sequenzer
-4. Master Keyboard
+2. MIDI Sequenzer
+3. Analog Sequenzer
+4. Software-Sequenzer
 5. Sampler
-6. Status Byte
-7. Data Byte
-8. MSB LSB
-9. MIDI Note on Message
-10. MIDI Note off message
-11. MIDI Program Change
-12. MIDI Sequencer
-13.
-14. Control Number / Control Value
-15. General MIDI
-16. Standard MIDI File
-17. MIDI Kabel
-18. Software Synthesizer
-19. VST  (Virtual Studio Technology)
-20. AU ( Audio Unit )
-21. RTAS
-22. OSC (Open Sound Control)
+6. Mellotron
+7. Master Keyboard
+8. MIDI Controller
+9. Software Synthesizer
+10. VST  (Virtual Studio Technology)
+11. AU ( Audio Unit )
+12. RTAS  
+13. Standard MIDI File
+21. General MIDI
+14. MIDI Message
+15. Status Byte
+16. Data Byte
+17. MSB LSB
+18. MIDI Note On Message / MIDI Note Off Message  
+19. MIDI Control Number / Control Value
+20. MIDI Program Change
