@@ -1,18 +1,9 @@
 # Klasse 8
 
-# Audioverarbeitung2
-
-## Delay
+## Mischung
 
 
 
-## Flanger
-
-
-
-## Chorus
-
-## Reverb
 
 
 1. Delay

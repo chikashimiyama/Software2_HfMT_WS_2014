@@ -16,7 +16,7 @@ ist ein Zahlensystem, das als Basis die Zahl 10 verwendet.
 [Das Binärsystem](http://www.arndt-bruenner.de/mathe/Allgemein/binaersystem.htm)
 
 ## Quiz 1
-Konvertieren Sie die folgende Bainäre Zahlen auf Dezimal.
+Wandeln Sie die folgende Binärzahlen in Dezimalzahlen um.
 
 1. 10
 2. 101
@@ -56,7 +56,10 @@ mit 1 Byte kann mann 256 (2 hoch 8) Zustände darstellen.
 
 
 ## Quantisierung (Quantization)
-Ein Audiosignal im Moment der Abtastung werden über einen ADC in einen Zahlenwert umgewandelt. Dabei wird auf ganze Zahlen gerundet.
+Die Quantisierung ist Teil der Digitalisierung von analogen Signalen. Dazu werden die analogen Signale in regelmäßigen Abständen mit der Abtastrate abgetastet (Sampling) und zu jedem dieser Abtastzeitpunkte wird ihr Wert in einen Digitalwert umgewandelt. Das Analogsignal kann nur in einer **endlichen Anzahl von Digitalwerten ausgedrückt werden**. Diese Umwandlung in Zahlen und messbaren Größen nennt man **Quantisierung**. So kann ein Analogwert mit einer Bittiefe von beispielsweise 4 Bit, 8 Bit, 16 Bit, 24 Bit oder 32 Bit dargestellt werden, was einer Quantisierung von 16, 256, 65.536, 16.777.216 oder 4,295 x 10exp9 unterschiedlichen Pegeln entspricht. Je höher die Quantisierung, desto geringer ist der mögliche prozentuale **Quantisierungsfehler** in Bezug auf das Originalsignal.
+
+
+[Einzelheit](http://www.itwissen.info/definition/lexikon/Quantisierung-quantization.html)
 
 ![](Klasse4/quantization.png)
 
@@ -67,34 +70,12 @@ gibt die Anzahl der Bits an, die bei der Digitalisierung eines analogen Signals 
 Die Anzahl der Quantisierungsstufen beschreibt die Auflösung des vorhandenen Wertebereiches bei der Wandlung eines analogen Signals in ein digitales (vergleiche Quantisierung ). Je mehr Quantisierungsstufen verwendet werden desto feiner wird die Amplitude des zu wandelnden Signals erfasst.
 
 ---
-
-8 bits = 0~255 = -128~127
-![](Klasse4/8bit.jpg)
-
----
-
 4 bits = 0~15 = -8~7
 ![](Klasse4/4bit.jpg)
-
 ---
-
-## Quantisierungsfehler (Quantization Error)
-Der Quantisierungsfehler ist der Fehler, der bei der Quantisierung von analogen Größen entsteht (z. B. bei der Analog-Digital-Umsetzung). Während analoge Signale dem Wertebereich der reellen Zahlen genügen, werden in der digitalen Darstellung nur diskrete Werte verwendet. Daher ist mit der Quantisierung eine Rundung verbunden, die einen Fehler verursacht.
-
-### ein musikalische Beispiel von Quantisierungsfehler
-
-[Atari Teenage Riot - Digital HardCore - ](https://www.youtube.com/watch?v=ucGaSJmUZi0&list=RDShiCv4RZdWU&index=6)
-
-### Bittiefe von CD, MD und DVD
-
-- CD = 16 bits
-- MD(Mini Disc) = 24 bits
-- DVD Audio / Blu-ray = 24 bits
-
-
-
-![](Klasse4/cdsurface.jpg)
-
+8 bits = 0~255 = -128~127
+![](Klasse4/8bit.jpg)
+---
 
 ## Experiment 1
 
@@ -108,6 +89,23 @@ Der Quantisierungsfehler ist der Fehler, der bei der Quantisierung von analogen 
 - Mit degrade~ die Bittiefe von Sägezahn, Sinus, Saw und Rechteck verändern.
 ![](Klasse4/rect.png)
 
+
+## Quantisierungsfehler (Quantization Error)
+Der Quantisierungsfehler ist der Fehler, der bei der Quantisierung von analogen Größen entsteht (z. B. bei der Analog-Digital-Umsetzung). Während analoge Signale dem Wertebereich der reellen Zahlen genügen, werden in der digitalen Darstellung nur diskrete Werte verwendet. Daher ist mit der Quantisierung eine Rundung verbunden, die einen Fehler verursacht.
+
+### eine musikalische Anwendung von Quantisierungsfehler
+
+[Atari Teenage Riot - Digital HardCore - ](https://www.youtube.com/watch?v=ucGaSJmUZi0&list=RDShiCv4RZdWU&index=6)
+
+### Bittiefe von CD, MD und DVD
+
+- CD = 16 bits
+- MD(Mini Disc) = 24 bits
+- DVD Audio / Blu-ray = 24 bits
+
+![](Klasse4/cdsurface.jpg)
+
+
 ## Abtastrate + Quntisierung Matrix
 
 | Bit depth / SR  |  	8kHz                       | 44.1kHz                            | 	48kHz                           | 96kHz                           |
@@ -119,11 +117,11 @@ Der Quantisierungsfehler ist der Fehler, der bei der Quantisierung von analogen 
 ## Formate der Audiodateien (Sound files)
 
 - Drei Typen
-  - keine Datenkompression (uncompressed)
+  - Unkomprimiert (uncompressed)
   - verlustbehaftete Kompression (lossy compression)
   - verlustfreie Kompression (lossless compression)
 
-### Keine Datenkompression
+### Unkomprimiert
 ####AIFF
 - Audio Interchange File Format
 - Entwickelt von: Apple
@@ -163,6 +161,19 @@ Der Quantisierungsfehler ist der Fehler, der bei der Quantisierung von analogen 
 - Entwickelt von: Apple
 - verlustfreie Kompression
 - [Klangbeispiel 3.8MB](Klasse4/44.1kHz16bit_lossless.m4a)
+
+### Wie sollen wir **gute Audioqualität** definieren?
+
+Ein Paar Kriterien:
+
+#### Signal-Rausch-Verhältnis (S/N Ratio)
+ist ein Maß für die technische Qualität eines Nutzsignals (z. B. Sprache ), das von einem Rauschsignal überlagert ist. Es ist definiert als das Verhältnis der mittleren Leistung des Nutzsignals zur mittleren Rauschleistung des Störsignals.
+
+#### Frequenzgang (Frequency Response)
+Der Frequenzgang ist ein Maß für das Verhältnis der Pegelabweichungen zueinander. Im Audiobereich würden sich Frequenzgangabweichungen durch eine stärkere oder geringere Dämpfung einzelner Frequenzen bemerkbar machen.
+
+#### Dynamikumfang (Dynamic Range)
+In der Tontechnik gibt der Dynamikumfang eines Audiosystems den Bereich an, in dem sich der Pegel des Tonsignals nutzbringend bewegen kann, sei es für Aufzeichnung, Sendung oder Wiedergabe. Dieser Wert wird meistens in dB angegeben.  
 
 ## Audio-Interface
 **"Das Audiointerface bildet das Herzstück eines modernen Tonstudios"**
@@ -204,18 +215,6 @@ Zurzeit haben meiste Audio-Interfaces einen USB Anschluss.
 #### USB Kabel
 ![](Klasse4/USB.jpeg)
 
-### Wie sollen wir **gute Audioqualität** definieren?
-
-Ein Paar Kriterien:
-
-#### Signal-Rausch-Verhältnis (S/N Ratio)
-ist ein Maß für die technische Qualität eines Nutzsignals (z. B. Sprache ), das von einem Rauschsignal überlagert ist. Es ist definiert als das Verhältnis der mittleren Leistung des Nutzsignals zur mittleren Rauschleistung des Störsignals.
-
-#### Dynamikumfang (Dynamic Range)
-In der Tontechnik gibt der Dynamikumfang eines Audiosystems den Bereich an, in dem sich der Pegel des Tonsignals nutzbringend bewegen kann, sei es für Aufzeichnung, Sendung oder Wiedergabe. Dieser Wert wird meistens in dB angegeben.
-
-#### Frequenzgang (Frequency Response)
-Der Frequenzgang ist ein Maß für das Verhältnis der Pegelabweichungen zueinander. Im Audiobereich würden sich Frequenzgangabweichungen durch eine stärkere oder geringere Dämpfung einzelner Frequenzen bemerkbar machen.
 
 ## Terminologien
 
