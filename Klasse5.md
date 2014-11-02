@@ -6,7 +6,18 @@ ist ein **Industriestandard** für den Austausch musikalischer Steuerinformation
 Webseite : [http://www.midi.org/index.php](http://www.midi.org/index.php)
 
 ### Protokoll / Kommunikationsprotokoll (protocol)
-In der Informatik und in der Telekommunikation ist ein Kommunikationsprotokoll eine Vereinbarung, nach der die Datenübertragung zwischen zwei oder mehreren Parteien abläuft. In seiner einfachsten Form kann ein Protokoll definiert werden als die Regeln, die Syntax, Semantik und Synchronisation der Kommunikation bestimmen. Protokolle können durch Hardware, Software oder eine Kombination von beiden implementiert werden. Auf der untersten Ebene definiert ein Protokoll das Verhalten der Verbindungs-Hardware.
+In der Informatik und in der Telekommunikation ist ein Kommunikationsprotokoll eine Vereinbarung, nach der die Datenübertragung zwischen zwei oder mehreren Parteien abläuft. In seiner einfachsten Form kann ein Protokoll definiert werden als die Regeln, die Syntax, Semantik und Synchronisation der Kommunikation bestimmen. Protokolle können durch Hardware, Software oder eine Kombination von beiden implementiert werden.
+
+
+---
+morse code ist ein Beispiel von Protokoll
+
+![](Klasse5/morsecode.png)
+
+---
+MIDI ist auch ein Protokoll
+![](Klasse5/midi.png)
+
 
 ## Hintergrund
 ![](Klasse5/MIDI_Idee.png)
@@ -17,8 +28,7 @@ In der Informatik und in der Telekommunikation ist ein Kommunikationsprotokoll e
 Heute / vor 50 Jaren
 
 ### MIDI-Sequenzer (Sequencer)
-Ein Sequenzer ist ein Gerät oder ein Musikprogramm, mit dem man Rhythmen und ganze Stücke erstellst. Diese in Taktschritte unterteilten Sequenzen werden in einer festgelegten Geschwindigkeit abgespielt. Ein Sequenzer allein gibt keine Klänge von sich, er ist lediglich ein Container, in dem alle MIDI-Informationen gespeichert werden. Die Rhythmen und Melodien (MIDI-Messages) werden erst durch Klangerzeuger (Sound Module oder Software Synthesizer) in Hörbares vertont.
-
+Ein Sequenzer ist ein Gerät oder ein Musikprogramm, mit dem man Rhythmen und ganze Stücke erstellst. Diese in Taktschritte unterteilten Sequenzen werden in einer festgelegten Geschwindigkeit abgespielt. Ein Sequenzer allein gibt keine Klänge von sich, er ist lediglich ein Container, in dem alle MIDI-Informationen gespeichert werden. Die Rhythmen und Melodien (MIDI-Messages) werden erst durch Klangerzeuger (Soundmodul oder Softwaresynthesizer) in Hörbares vertont.
 
 #### Geschichte
 
@@ -36,7 +46,8 @@ Akai ASQ10
 Logic Ver 3
 
 ##### DAW (Digital Audio Workstation)
-ist ein computergestütztes System für Tonaufnahme, Musikproduktion, Abmischung und Mastering, das sich durch eine hohe Integration von Komponenten innerhalb des Systems auszeichnet. Es ist ein Verbund digitaler Geräte zur digitalen Aufzeichnung und Verarbeitung von Schallsignalen. „Digital Audio Workstation“ ist die ursprüngliche Bezeichnung für Harddisk-Recording-Geräte, als HD-Recording mittels PC oder Mac – zum Beispiel mit Pro Tools – noch nicht möglich war.
+ist ein computergestütztes System für Tonaufnahme, Musikproduktion, Abmischung und Mastering, das sich durch eine hohe Integration von Komponenten innerhalb des Systems auszeichnet. Es ist ein Verbund digitaler Geräte zur digitalen Aufzeichnung und Verarbeitung von Schallsignalen. Zurzeit haben fast alle DAWs die Funktionen eines MIDI-Sequenzers.
+
 
 ![](Klasse5/nuendo.jpeg)
 
@@ -54,6 +65,12 @@ ist die Urform des Samplers und arbeitet mit 3/8 Zoll breiten, mit drei Spuren b
 ![](Klasse5/mellotron.jpg) mellotron
 
 [Mellotron Demo auf Youtube](https://www.youtube.com/watch?v=yrXtmKGkSa4)
+
+>"Sampling" hat zwei Bedeutungen
+1. Abtastung
+2. Einen Teil einer Musikaufnahme in einem neuen musikalischen Kontext zu verwenden.
+
+>  [who sampled who](http://www.whosampled.com)
 
 ### Soundmodul
 Ein Soundmodul ist ein externer elektronischer Klangerzeuger ohne spielbare Schnittstelle, wie etwa eine Klaviatur. Um es zu spielen, ist es deshalb nötig, es mit einem MIDI-fähigen Gerät anzusteuern, entweder mit einem Controller – etwa einem Masterkeyboard – oder einem Sequenzer. Die meisten Soundmodule haben eine genormte Breite und Schraubgewinde, damit man sie stapelweise in ein Rack, einem speziellen Ständer für musikalische Geräte, einbauen kann.
@@ -153,11 +170,11 @@ General MIDI (GM) standardisiert weit mehr als der generelle MIDI-Standard. Ist 
   - Laden Sie ein SMF auf Garageband
   - Wählen Sie andere Instrumente für Spure aus.
 
-## Software Synthesizer
+## Softwaresynthesizer
+Ein Softwaresynthesizer ist ein Computerprogramm, das einen Hardware-Synthesizer digital nachstellt (simuliert) oder sich davon inspirieren lässt. Mitte der 1990er Jahre wurden Personal Computer leistungsfähig genug, um Software-Synthesizer verzögerungsfrei über eine MIDI-Tastatur spielbar zu machen. Das sorgte für eine große Popularität solcher Programme. Sie ersetzen und ergänzen seitdem zunehmend die wesentlich teureren und häufig schwergewichtigen Hardware-Synthesizer auch in großen Tonstudios.
 
 ![](Klasse5/Softsynth.png)
 
-Ein Software-Synthesizer oder Softsynth ist ein Computerprogramm, das einen Hardware-Synthesizer digital nachstellt (simuliert) oder sich davon inspirieren lässt. Mitte der 1990er Jahre wurden Personal Computer leistungsfähig genug, um Software-Synthesizer verzögerungsfrei über eine MIDI-Tastatur spielbar zu machen. Das sorgte für eine große Popularität solcher Programme. Sie ersetzen und ergänzen seitdem zunehmend die wesentlich teureren und häufig schwergewichtigen Hardware-Synthesizer auch in großen Tonstudios.
 
 ### Typische Protokolle des Softwaresynthesizers
 #### VST (Virtual Studio Technology)
@@ -225,10 +242,6 @@ z.B.
 192 - 40
 Bedeutung ... Kanal1, Geige auflegen!
 
-
-
-
-
 ## Terminologien
 
 1. MIDI
@@ -236,10 +249,10 @@ Bedeutung ... Kanal1, Geige auflegen!
 2. MIDI Sequenzer
 4. DAW
 5. Sampler
+6. Sampling
 6. Mellotron
 7. Master Keyboard
 8. MIDI Controller
-9. MIDI Fader
 10. MIDI Kabel
 10. Software Synthesizer
 11. VST  (Virtual Studio Technology)
