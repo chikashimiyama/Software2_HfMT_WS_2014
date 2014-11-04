@@ -28,7 +28,7 @@ MIDI ist auch ein Protokoll
 Heute / vor 50 Jaren
 
 ### MIDI-Sequenzer (Sequencer)
-Ein Sequenzer ist ein Gerät oder ein Musikprogramm, mit dem man Rhythmen und ganze Stücke erstellst. Diese in Taktschritte unterteilten Sequenzen werden in einer festgelegten Geschwindigkeit abgespielt. Ein Sequenzer allein gibt keine Klänge von sich, er ist lediglich ein Container, in dem alle MIDI-Informationen gespeichert werden. Die Rhythmen und Melodien (MIDI-Messages) werden erst durch Klangerzeuger (Soundmodul oder Softwaresynthesizer) in Hörbares vertont.
+Ein Sequenzer ist ein Gerät oder ein Musikprogramm, mit dem man ganze Stücke erstellst. Diese in Taktschritte unterteilten Sequenzen werden in einer festgelegten Geschwindigkeit abgespielt. Ein Sequenzer allein gibt keine Klänge von sich, er ist lediglich ein Container, in dem alle MIDI-Informationen gespeichert werden. Die Rhythmen und Melodien (MIDI-Messages) werden erst durch Klangerzeuger (Soundmodul oder Softwaresynthesizer) in Hörbares vertont.
 
 #### Geschichte
 
