@@ -1,25 +1,71 @@
 # Klasse 8
+# Mikrofon
 
-# Audioverarbeitung2
-
-## Delay
-
-
-
-## Flanger
+## Typen
+### Kondensatormikrofon
 
 
-
-## Chorus
-
-## Reverb
+### Dynamikmikrofon
 
 
-1. Delay
-2. Flanger
-3. Chorus
-4. Reverb
-5. 
+
+### Elektret-Kondensatormikrofon
+
+
+### Piezomikrofon
+
+
+## Akustische Bauformen
+
+## Richtcharakteristik (Polar Pattern)
+
+### Kugel (Omnidirectional)
+
+### Acht (Figure of eight)
+
+### Breite Niere (Subcardioid)
+### Niere (Cardioid)
+### Superniere (Super Cardioid)
+### Hyperniere (Omni directional)
+
+
+## Mikrofonsignal
+
+## Frequenzgang
+
+
+## on mik off mic
+
+## Stereomirkfon
+
+### AB
+### XY
+### ORTF
+
+## (Proximity Effect)
+
+
+## Windschutz (Pop Guard)
+
+
+
+## Besondere Mikrofone
+
+### Grenzflächenmikrofon
+
+
+### Shotgunmikrofon
+
+
+
+
+# Terminologien
+
+1. Kondensatormikrofon
+2.  Dynamikmikrofon
+3.  Ribbommikrofon
+4.  Elektret-Kondensatormikrofon
+5.  Piezomikrofon
 6.
 7.
 8.
@@ -29,6 +75,7 @@
 12.
 13.
 14.
+15.
 15.
 16.
 17.

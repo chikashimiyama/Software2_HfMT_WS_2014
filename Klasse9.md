@@ -1,6 +1,35 @@
-# Klasse 8
+# Klasse 9
+# Audioverarbeitung I
 
-# Audioverarbeitung2
+## Filter
+
+
+### Lowpass
+
+
+### Highpass
+
+
+### Bandpass
+
+
+### Bandreject
+
+
+### Peaknotch
+
+
+### Allpass
+
+## Compressor
+
+
+
+## Expander
+
+
+## Compander
+
 
 ## Delay
 
@@ -14,24 +43,26 @@
 
 ## Reverb
 
+# Terminologien
 
-1. Delay
-2. Flanger
-3. Chorus
-4. Reverb
-5. 
-6.
-7.
+1. Filter
+2. Lowpass filter
+3. Highpass filter
+4. Bandpass filter
+5. Bandreject filter
+6. Peaknotch
+7. Allpass
 8.
 9.
 10.
 11.
-12.
-13.
-14.
-15.
-16.
-17.
-18.
-19.
+12. Grafikequalizer
+13. Parametrikequalizer
+14. Limoter
+15. Compressor
+15. Expander
+16. Noise Gate
+17. Side Chain
+18. Attack Time
+19. Release Time
 20.
