@@ -115,6 +115,7 @@ Dann folgen die einzelnen Werte für die Parameter. Will man an unserem imaginä
 
 /synthesizer/zynaddsubfx/filter/lowpass1/resonance "f" 1998.4f.
 
+![](Klasse12/OSC_address.png)
 ## Terminologien
 
 1. IP Address
