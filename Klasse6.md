@@ -36,6 +36,13 @@ Zur Umwandlung elektrischer Signale in Schallwellen wird ein Medium durch elektr
 
 Ein Lautsprecher besteht daher in den meisten Fällen aus drei Komponentengruppen: Der Membran, der Antriebseinheit sowie deren verbindenden Elementen. Beim Standardmodell des sogenannten Tauchspulenlautsprechers wird die Membran von einer mittig angebrachten Schwingspule in Bewegung versetzt; zum Antrieb gehört neben der Spule ein Magnet, in dessen Feld sie schwingt. Ein Korb verbindet den Magneten mit einer Sicke sowie einer Zentrierspinne, welche ihrerseits die Membran führen.
 
+[Nicholas Collins Handmade electronic Music](https://www.youtube.com/watch?v=6ZxxuDNQuMQ&index=3&list=PLyFW-rnLqSeGxwsL0FL160g8y6XmdHZcQ)
+
+![](Klasse6/handmadeelectronicmusic.gif)
+[Nicholas Collins](http://www.nicolascollins.com/handmade.htm)
+
+[Cornstach monster](https://www.youtube.com/watch?v=kevqQHZSeao)
+
 ### Einteilung nach Anzahl der Wege
 
 Mit einem einzigen Lautsprecher lässt sich das gesamte Hörspektrum nur schwer wiedergeben. Große Membranflächen, die das für Bässe nötige Luftvolumen verschieben können, bündeln den Schall bei höheren Frequenzen stark; Konusmembranen haben zudem mit Partialschwingungen zu kämpfen. Kleine Membranflächen können raschen Auslenkungen leichter folgen und weisen ein besseres Rundstrahlverhalten auf, schwächeln aber bei der Basswiedergabe.
