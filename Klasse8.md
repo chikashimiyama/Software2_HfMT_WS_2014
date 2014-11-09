@@ -3,12 +3,22 @@
 
 
 ## Mikrofon (Microphone)
+
+- [Simple Electricity Generator](https://www.youtube.com/watch?v=0OHmMVBLXTI)
+
 Ein Mikrofon oder Mikrophon ist ein **Schallwandler**, der Luftschall als Schallwechseldruckschwingungen in entsprechende elektrische Spannungsänderungen als Mikrofonsignal umwandelt.
 
 ### Wandler (Transducer)
 Gerät, Vorrichtung, die eine [physikalische] Größe in ihrem Wert verändert oder in eine andere Größe umwandelt.
 
 ## Typen
+
+### Dynamikmikrofon
+
+!()[https://www.youtube.com/watch?v=0OHmMVBLXTI]
+
+![](Klasse8/dynamik.png)
+
 ### Kondensatormikrofon
 Das Kondensatormikrofon (engl. condenser microphone, capacitor microphone) ist ein elektroakustischer Wandler, der Schall in ein entsprechendes elektrisches Signal wandelt.
 
@@ -17,13 +27,11 @@ Dieses Mikrofon nutzt die durch Abstandsänderungen zwischen der (beweglichen) M
 ![](Klasse8/kondensator.png)
 
 #### Kondensator
-ist ein passives elektrisches Bauelement mit der Fähigkeit, in einem Gleichstromkreis elektrische Ladung und die damit zusammenhängende Energie statisch in einem elektrischen Feld zu speichern. Die gespeicherte Energie wird als elektrische Kapazität bezeichnet und in der Einheit Farad gemessen. 
+ist ein passives elektrisches Bauelement mit der Fähigkeit, in einem Gleichstromkreis elektrische Ladung und die damit zusammenhängende Energie statisch in einem elektrischen Feld zu speichern. Die gespeicherte Energie wird als elektrische Kapazität bezeichnet und in der Einheit Farad gemessen.
 
 ![](Klasse8/kondensator.jpg)
 
-### Dynamikmikrofon
 
-![](Klasse8/dynamik.png)
 
 ### Elektret-Kondensatormikrofon
 

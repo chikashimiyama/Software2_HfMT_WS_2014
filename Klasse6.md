@@ -18,15 +18,36 @@ zwei typen
 ### Aktiv-Lautsprecher (Powered Loudspeaker)
 eine integrierte Einheit aus Lautsprecher und Verstärker in einem Gehäuse.
 
+![](Klasse6/genelec.jpeg)
+
+- Genelec 8020A / typischer Akitiv-Lautsprecher für ein elektronisches Studio
+
+
 ### Passiv-Lautsprecher (Passive Loudspeaker)
 bekommen das Signal von einem externen Verstärker an die Eingangsbuchsen geliefert und verteilen es über die Frequenzweiche an ihre Lautsprecher.
 
-
+![](Klasse6/passiv.jpg)
+Electro Voice ELX 115
 
 ### Der Mechanismus
 ![](Klasse6/lautsprecher.png)
 
-### 2-Wege / 3 Wege Lautsprecher (2 way Loudspeaker / 3 way loudspeaker)
+Zur Umwandlung elektrischer Signale in Schallwellen wird ein Medium durch elektrische Energie in mechanische Schwingungen versetzt. Diese Funktion übernimmt fast immer eine Membran; ihr Antrieb erfolgt über ein elektromagnetisches Feld.
+
+Ein Lautsprecher besteht daher in den meisten Fällen aus drei Komponentengruppen: Der Membran, der Antriebseinheit sowie deren verbindenden Elementen. Beim Standardmodell des sogenannten Tauchspulenlautsprechers wird die Membran von einer mittig angebrachten Schwingspule in Bewegung versetzt; zum Antrieb gehört neben der Spule ein Magnet, in dessen Feld sie schwingt. Ein Korb verbindet den Magneten mit einer Sicke sowie einer Zentrierspinne, welche ihrerseits die Membran führen.
+
+### Einteilung nach Anzahl der Wege
+
+Mit einem einzigen Lautsprecher lässt sich das gesamte Hörspektrum nur schwer wiedergeben. Große Membranflächen, die das für Bässe nötige Luftvolumen verschieben können, bündeln den Schall bei höheren Frequenzen stark; Konusmembranen haben zudem mit Partialschwingungen zu kämpfen. Kleine Membranflächen können raschen Auslenkungen leichter folgen und weisen ein besseres Rundstrahlverhalten auf, schwächeln aber bei der Basswiedergabe.
+
+Aus diesem Grund werden Lautsprecher („Chassis“) seitens ihrer Hersteller vorzugsweise für die Reproduktion spezifischer Frequenzbereiche optimiert.
+
+#### 2-Wege (2 way Loudspeaker)
+Hier kommen im Allgemeinen ein Bass/Mittelton- und ein Hochtonlautsprecher zum Einsatz. Nach diesem System sind die meisten Kompaktboxen aufgebaut.
+
+#### 3-Wege Lautsprecher ( 3 way loudspeaker )
+Hier wird der Frequenzbereich in drei Zweige aufgeteilt. Wie das Bild rechts zeigt, können dabei auch mehr als drei Lautsprecher zur Anwendung kommen: Die beiden Mitteltöner der Box arbeiten parallel am gleichen Zweig.
+
 
 ![](Klasse6/2or3.png)
 
@@ -41,6 +62,27 @@ Eine Frequenzweiche teilt ein verschiedene Frequenzen enthaltendes elektrisches 
 ist eine spezielle Lautsprecherbox, die von ihrer Konstruktion her für die alleinige Wiedergabe tieffrequenter Schallwellen, dem so genannten Bass oder sogar nur Tiefbass, konzipiert ist.
 
 ![](Klasse6/subwoofer.jpeg)
+
+
+### Bekannte Hersteller von Lautsprecher
+
+- [Meyersound](http://www.meyersound.com)
+Stadtgarten Köln benutzen Meyer CQ1
+- [Electro Voice](http://www.electrovoice.com)
+Sher oft benutzt von Rock Musiker
+- [Mackie](http://mackie.com)
+Sehr bekannt. nicht so teuer.
+- [Genelec](http://www.genelec.com)
+Viele elektronisch Studios benutzen 80x0 Monitor.
+- [Adam Audio](http://www.adam-audio.com/de)
+Chikashi benutzt Adam Monitor
+- [Behringer](http://www.behringer.com)
+Günstig Günstig
+- [Dynaudio](http://www.dynaudio.com)
+BBC benutzt Lautsprecher von Dynaudio
+- [JBL](http://de.jbl.com)
+
+
 
 ## Mischpult (Mixing Console)
 Ein Mischpult dient dazu, elektrische Tonsignale von verschiedenen Quellen (z. B. Mikrofone, Abspielgeräte oder elektronische Klangerzeuger) auf zwei oder mehr Ausgangssummen meistens nach Frequenzgangs- und Dynamikveränderungen, zusammenzufügen. Für Mischungen in Stereofonie werden zum Beispiel alle am Mischpult anliegenden Signale auf die Stereo-Kanäle „Links“ und „Rechts“ zusammengeführt. Audio-Mischpulte gibt es in den Ausführungen *Analogmixer*, *Digitalmixer* und *Powermixer*.
