@@ -1,5 +1,5 @@
 # Klasse 8
-# Mikrofon
+# Mikrofon I
 
 
 ## Mikrofon (Microphone)
@@ -126,7 +126,9 @@ Bei der ORTF-Stereophonie (Office de Radiodiffusion Télévision Française) wer
 
 # Terminologien
 
-1. Kondensatormikrofon
+1. Mikrofon
+2. Wandler
+3. Kondensatormikrofon
 2.  Dynamikmikrofon
 3.  Ribbommikrofon
 4.  Elektret-Kondensatormikrofon
