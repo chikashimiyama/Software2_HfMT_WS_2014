@@ -18,6 +18,8 @@ Bei der ORTF-Stereophonie (Office de Radiodiffusion Télévision Française) wer
 
 ![](Klasse8/ortf.png)
 
+[Visualisierung Stereofpnnie](http://www.sengpielaudio.com/Visualization-XY90.htm)
+
 ### Digitaler Audio-Rekorder
 ![](Klasse8/mobile.png)
 
