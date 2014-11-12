@@ -45,22 +45,18 @@ ist ein passives elektrisches Bauelement mit der Fähigkeit, in einem Gleichstro
 
 [Vergleich Kondensator und Dynamik](https://www.youtube.com/watch?v=27dLLnisH2M)
 
-### Piezomikrofon
-ist ein elektroakustischer Wandler, der Druckschwankungen in entsprechende elektrische Signale wandelt. Eine Membran folgt den Druckschwankungen. Sie ist mechanisch mit einem piezoelektrischen Element gekoppelt, das durch die Druckschwankungen minimal verformt wird. Die elektrische Spannungsschwankungen des piezoelektrischen Materials (meist Blei-Zirkonat-Titanat) werden zum Verstärker übertragen.
+### Die Große von Membran
 
-![](Klasse8/piezo.jpg)
+![](Klasse9/large_vs_small.jpeg)
 
-[Nicholas Collings - Experiment mit Piezo ](http://youtu.be/P8iAshJ1Pk0?list=PLyFW-rnLqSeGxwsL0FL160g8y6XmdHZcQ)
-
-[Klangbeispie mit Kontaktmik](http://youtu.be/FOfEsUTZRK0?t=1m11s)
-
-[Anwendung von Piezo](http://youtu.be/8fXl67zGZlo)
-
-#### Piezoelektrizität (Piezoelectricity)
-beschreibt die Änderung der elektrischen Polarisation und somit das Auftreten einer elektrischen Spannung an Festkörpern, wenn sie elastisch verformt werden (direkter Piezoeffekt). Umgekehrt verformen sich Materialien bei Anlegen einer elektrischen Spannung (inverser Piezoeffekt).
+| Kriterium |kleinmembran|großmembran|
+|-----------|------------|-----------|
+|Rauschen | hoch | niedrig|
+|Empfindlichkeit| niedrig| hoch |
+|Frequenzbereich | breit | schmal |
 
 
-[Coil Pickup](https://www.youtube.com/watch?v=4T7qkYY7LZM&list=PLyFW-rnLqSeGxwsL0FL160g8y6XmdHZcQ)
+[Difference between small and large diaphram](http://www.dpamicrophones.com/da/MikrofonUniversitet/Tech-Guide/Large-Diaphragm.aspx)
 
 ## Richtcharakteristik (Polar Pattern)
 beschreibt die Abhängigkeit der Empfindlichkeit eines Mikrofons, also der Ausgangsspannung im Verhältnis zum Schalldruck, vom Schalleinfallswinkel.Oft wird nur ein horizontaler Schnitt angegeben. Der Richtcharakter hängt ab von der Bauform der Mikrofonkapsel und von äußeren Formelementen (z. B. Richtrohrmikrofon).
@@ -121,48 +117,28 @@ Ein Mikrofon-Windschutz ist meistens ein aus offenporigem Schaumstoff gefertigte
 
 - [Grafik EQ und feedback](http://youtu.be/b-f9qw18PRU?t=3m34s)
 
-## Besondere Mikrofone
-
-### Richtrohrmikrofon (Shotgun Microphone)
-besitzt eine ausgeprägte Keulencharakteristik, die durch ein vor ein Druckgradientenmikrofon vorgebautes, mit seitlichen Schlitzen oder Bohrungen versehenes, nach vorn offenes Interferenzrohr zustande kommt. Dieses bewirkt, abhängig von der Rohrlänge, eine deutliche Verstärkung der Richtwirkung ab etwa 1 bis 2 kHz. Bei tieferen Frequenzen entspricht die Richtwirkung derjenigen der Mikrofonkapsel (Nieren- oder Supernierencharakteristik).Als Wandler sind Kondensator- oder Elektretmikrofone üblich.
-
-![](Klasse8/shotgun.jpg)
-- [Shure Shotgun microphone tutorial](https://www.youtube.com/watch?v=h3LSEnI3ko0)
-
-### Grenzflächenmikrofon (Boundary Microphone)
-Ein Grenzflächenmikrofon ist eine Sonderbauform von Mikrofonen, bei denen das Gehäuse Teil des Schallwandlers ist.
-
-![](Klasse8/boundary.jpg)
-
-Diese Bauart wurde entwickelt, um die vorteilhaften akustischen Eigenschaften auszunutzen, die an schallreflektierenden Flächen auftreten, ohne das Schallfeld selbst zu beeinträchtigen. Das Mikrofon wird auf eine große schallreflektierende Fläche, z. B. auf den Fußboden, gelegt. Es erhält so den maximalen Schalldruck mit verringerten Raumschallanteilen.
-
-
-
-
 # Terminologien
 
 1. Mikrofon (Microphone)
 2. Wandler  (Transducer)
 3. Dynamikmikrofon (dynamic microphone)
 4. elektromagnetischen Induktion (electro magnetic induction)
-2. Kondensatormikrofon (condensor microphone)
-3. Kondensator
-4. Piezomikrofon
-5. Piezoelektrizität (Piezoelectricity)
-5. Richtcharakteristik
-6. Richtcharakteristik (Polar Pattern)
-6. Kugel
-7. Acht
-8. Breite Niere
-9. Niere
-10. Hyperniere
-11. Superniere
-13. Windschutz
-14. Frequenzgang
-15. Linearer Frequenzgang (Flat frequency response)
-16. Konturierter Frequenzgang (Tailored frequency response)
-15. Nahbesprechungseffekt
-15. Windschutz (Pop filter)
-16. Rückkopplung (Feedback)
-15. Richtrohrmikrofon
-17. Grenzflächenmikrofon
+5. Kondensatormikrofon (condensor microphone)
+6. Kondensator
+7. Piezomikrofon
+8. Piezoelektrizität (Piezoelectricity)
+9. Richtcharakteristik
+10. Richtcharakteristik (Polar Pattern)
+11. Kugel
+12. Acht
+13. Breite Niere
+14. Niere
+15. Hyperniere
+16. Superniere
+17. Windschutz
+18. Frequenzgang
+19. Linearer Frequenzgang (Flat frequency response)
+20. Konturierter Frequenzgang (Tailored frequency response)
+21. Nahbesprechungseffekt
+22. Windschutz (Pop filter)
+23. Rückkopplung (Feedback)
