@@ -50,11 +50,11 @@ ist ein elektroakustischer Wandler, der Druckschwankungen in entsprechende elekt
 
 ![](Klasse8/piezo.jpg)
 
-![Nicholas Collings - Experiment mit Piezo ](http://youtu.be/P8iAshJ1Pk0?list=PLyFW-rnLqSeGxwsL0FL160g8y6XmdHZcQ)
+[Nicholas Collings - Experiment mit Piezo ](http://youtu.be/P8iAshJ1Pk0?list=PLyFW-rnLqSeGxwsL0FL160g8y6XmdHZcQ)
 
 [Klangbeispie mit Kontaktmik](http://youtu.be/FOfEsUTZRK0?t=1m11s)
 
-[Anwendung von Piezo] (http://youtu.be/8fXl67zGZlo)
+[Anwendung von Piezo](http://youtu.be/8fXl67zGZlo)
 
 #### Piezoelektrizität (Piezoelectricity)
 beschreibt die Änderung der elektrischen Polarisation und somit das Auftreten einer elektrischen Spannung an Festkörpern, wenn sie elastisch verformt werden (direkter Piezoeffekt). Umgekehrt verformen sich Materialien bei Anlegen einer elektrischen Spannung (inverser Piezoeffekt).
@@ -138,20 +138,6 @@ Diese Bauart wurde entwickelt, um die vorteilhaften akustischen Eigenschaften au
 
 
 
-## Mikrofonhersteller
-
-- [Schoeps](http://www.schoeps.de/en/home)
-  - WDR benutzt Schoeps MK4 - MK5 für Aufnahme
-- [AKG](http://www.akg.com/AKG-997.html)
-  - Fast alle AufnahmeStudios haben AKG 414
-- [Neumann](http://neumannusa.com)
-  - Neumann U87i ist Perfekt für Gesang
-- [Shure](http://www.shure.de)
-  - Meiste Pop-Sänger benutzt SM-58 auf der Bühne
-- [Sennheiser](http://en-de.sennheiser.com)
-  - MD 421, gut für Schlagzeug
-- [Behringer](http://www.behringer.com)
-  - Günstig! Gut für dein erstes Mikro.
 
 # Terminologien
 
