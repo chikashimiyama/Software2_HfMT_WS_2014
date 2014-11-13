@@ -18,11 +18,18 @@ ist ein Industriestandard für elektrische Steckverbindungen. In der professione
 
 Der dreipolige XLR-Steckverbinder stellt in der professionellen Tontechnik die Standardverbindung für analoge Audioleitungen dar, insbesondere bei **symmetrischer Signalübertragung**.
 
+[How to solder XLR by yourself](https://www.youtube.com/watch?v=89XDGtJzzBc)
+
+![XLR](Klasse7/ground_positive_negative.png)
 
 ### Multicore
 dienen  mehrere Audiosignale von der Bühne zum Mischpult und zurück zu führen.
 
 ![](Klasse7/multicore.jpg)
+![](Klasse7/rolle.jpg) 8 Kanal Multicore-Trommel.
+
+![](Klasse7/multicore_bad.png)
+![](Klasse7/multicore_gut.png)
 
 ### Klinkenstecker (Phone/Audio Jack)
 sind international weit verbreitete elektrische Steckverbinder.
@@ -50,9 +57,11 @@ ist eine weit verbreitete umgangssprachliche Bezeichnung für genormte Steckverb
 
 ![](Klasse7/cinch.jpeg)
 
+RCA = Radio Corporation of America
 
 ### DI-Box
 ![](Klasse7/DI.jpeg)
+
 Die DI-Box (Abkürzung für Direct Injection) ist ein in der Tontechnik verwendetes Gerät, das ein asymmetrisches Signal in ein symmetrisches Signal umwandelt.
 
 ## Audiokabel (Digital)
@@ -113,6 +122,7 @@ ist die Bezeichnung für die von Intel in Zusammenarbeit mit Apple zunächst unt
 
 
 ![](Klasse7/thunderbolt.jpeg)
+[Demo](https://www.youtube.com/watch?v=gk69pCcVSSQ)
 
 ### Geschwindichkeit USB / Firewire / Thunderbolt
 ![](http://media.bestofmicro.com/I/V/338935/original/interfacespeeds.png)
@@ -139,6 +149,8 @@ High Definition Multimedia Interface ist eine Schnittstelle für die volldigital
 ![](Klasse7/displayport.jpeg)
 
 DisplayPort ist ein durch die VESA genormter, universeller und lizenzfreier Verbindungsstandard für die Übertragung von Bild- und Tonsignalen. Anwendungsbereiche sind im Wesentlichen der Anschluss von Bildschirmen und Fernsehgeräten an Computer, DVD-Spieler und ähnliche Geräte.
+
+[Unterschied](http://youtu.be/f38sotYHqtA)
 
 ## Terminologien
 
