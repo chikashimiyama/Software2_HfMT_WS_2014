@@ -85,9 +85,6 @@ ist eine Schnittstellen-Spezifikation für die elektrische oder optische Übertr
 ### USB
 Der Universal Serial Bus (USB) ist ein serielles Bussystem zur Verbindung eines Computers mit externen Geräten. Mit USB ausgestattete Geräte oder Speichermedien (USB-Speichersticks) können im laufenden Betrieb miteinander verbunden (Hot Swapping) und angeschlossene Geräte sowie deren Eigenschaften automatisch erkannt werden. Vor der Einführung von USB gab es eine Vielzahl verschiedener Schnittstellentypen mit unterschiedlichsten Steckern zum Anschluss von Zubehör und Peripheriegeräten an Heim- und Personal Computer. Fast alle diese Schnittstellenvarianten wurden durch das einheitliche USB ersetzt, was erhebliche Vereinfachungen für Anwender mit sich brachte. Ursprünglich 1996 eingeführt, wurde im Jahr 2000 die heute noch meistverbreitete Version USB 2.0 spezifiziert, mit der deutlich höhere Datenübertragungsraten möglich wurden. Die aktuelle, 2008 definierte Version 3.0 bietet einen neuen „SuperSpeed“-Übertragungsmodus mit einer Datentransferrate von 5 Gbit/s.
 
-
-
-
 #### USB
 ![](Klasse7/usb.jpeg)
 
