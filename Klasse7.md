@@ -121,6 +121,9 @@ ist die Bezeichnung für die von Intel in Zusammenarbeit mit Apple zunächst unt
 ![](Klasse7/thunderbolt.jpeg)
 [Demo](https://www.youtube.com/watch?v=gk69pCcVSSQ)
 
+thunderbolt hub
+![](Klasse7/thub.jpg)
+
 ### Geschwindichkeit USB / Firewire / Thunderbolt
 ![](http://media.bestofmicro.com/I/V/338935/original/interfacespeeds.png)
 

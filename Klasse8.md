@@ -16,7 +16,7 @@ Gerät, Vorrichtung, die eine physikalische Größe in ihrem Wert verändert ode
 bezeichnet man ein Mikrofon, das Schalldruckimpulse nach dem Prinzip der *elektromagnetischen Induktion* in äquivalente elektrische Spannungsimpulse wandelt.
 
 
-### elektromagnetischen Induktion (electro magnetic induction
+### elektromagnetischen Induktion (electro magnetic induction)
 Unter elektromagnetischer Induktion versteht man das Entstehen eines elektrischen Feldes durch Änderung der magnetischen Flussdichte.
 In vielen Fällen lässt sich das elektrische Feld durch Messung einer elektrischen Spannung direkt nachweisen. Ein typisches Beispiel hierfür zeigt das untenstehende Bild: Durch die Bewegung des Magneten wird eine elektrische Spannung induziert, die an den Klemmen der Spule messbar ist und für weitere Anwendungen bereitsteht.
 
@@ -116,6 +116,26 @@ Ein Mikrofon-Windschutz ist meistens ein aus offenporigem Schaumstoff gefertigte
 
 
 - [Grafik EQ und feedback](http://youtu.be/b-f9qw18PRU?t=3m34s)
+
+
+### Techrider
+Ein Stage Rider oder Technical Rider (meistens nur TecRider oder TechRider) ist ein Dokument, das die technischen Anforderungen eines Künstlers für seine Auftritte beschreibt. Meistens handelt es sich dabei um Musiker und Bands, die dadurch im Vorfeld einer Veranstaltung dem Veranstalter und den Ton- und Lichttechnikern die Planung erleichtern.
+
+- Ein Beispiel von Techrider
+![](Klasse8/techrider.jpg)
+
+- Techrider von Chikashi
+![](Klasse8/equipments.png)
+
+### Hausaufgabe für Elektroniker
+Schreiben Sie einen Techrider des Stücks für das Studiokonzert. Der Techrider muss die folgende Informationen beinhalten:
+
+- Bühnenplan (Position der Instrumenten, Monitor etc.)
+- System-Diagramm
+- Liste der Ausrüstungen
+- Name des Stücks
+- Ort der Veranstaltung
+
 
 # Terminologien
 
