@@ -24,12 +24,10 @@ In vielen Fällen lässt sich das elektrische Feld durch Messung einer elektrisc
 
 - [Simple Electricity Generator](https://www.youtube.com/watch?v=0OHmMVBLXTI)
 
-
 ![](Klasse8/dynamik.png)
 
-- Dynamischemirofon und Lautsprecher sind im Prizip gleich
-
 [Nicholas Collins Demo](http://youtu.be/0R63MOFTxx8?list=PLyFW-rnLqSeGxwsL0FL160g8y6XmdHZcQ)
+- Dynamischemirofon und Lautsprecher sind im Prizip gleich
 
 ### Kondensatormikrofon (condensor microphone)
 Das Kondensatormikrofon ist ein elektroakustischer Wandler, der Schall in ein entsprechendes elektrisches Signal wandelt.
@@ -127,15 +125,19 @@ Ein Stage Rider oder Technical Rider (meistens nur TecRider oder TechRider) ist 
 - Techrider von Chikashi
 ![](Klasse8/equipments.png)
 
-### Hausaufgabe für Elektroniker
+### Hausaufgabe für Elektroniker (bis 8 Dezember)
 Schreiben Sie einen Techrider des Stücks für das Studiokonzert. Der Techrider muss die folgende Informationen beinhalten:
 
 - Bühnenplan (Position der Instrumenten, Monitor etc.)
 - System-Diagramm
 - Liste der Ausrüstungen
 - Name des Stücks
-- Ort der Veranstaltung
+- Name des Komponists / der Komponistin
+- Ort und Zeit der Veranstaltung
 
+### Inkscape
+
+Free Drawing Software [Inkscape](https://inkscape.org/)
 
 # Terminologien
 
@@ -145,20 +147,18 @@ Schreiben Sie einen Techrider des Stücks für das Studiokonzert. Der Techrider 
 4. elektromagnetischen Induktion (electro magnetic induction)
 5. Kondensatormikrofon (condensor microphone)
 6. Kondensator
-7. Piezomikrofon
-8. Piezoelektrizität (Piezoelectricity)
-9. Richtcharakteristik
-10. Richtcharakteristik (Polar Pattern)
-11. Kugel
-12. Acht
-13. Breite Niere
-14. Niere
-15. Hyperniere
-16. Superniere
-17. Windschutz
-18. Frequenzgang
-19. Linearer Frequenzgang (Flat frequency response)
-20. Konturierter Frequenzgang (Tailored frequency response)
-21. Nahbesprechungseffekt
-22. Windschutz (Pop filter)
-23. Rückkopplung (Feedback)
+7. Richtcharakteristik
+8. Richtcharakteristik (Polar Pattern)
+9. Kugel
+10. Acht
+11. Breite Niere
+12. Niere
+13. Hyperniere
+14. Superniere
+15. Windschutz
+16. Frequenzgang
+17. Linearer Frequenzgang (Flat frequency response)
+18. Konturierter Frequenzgang (Tailored frequency response)
+19. Nahbesprechungseffekt
+20. Windschutz (Pop filter)
+21. Rückkopplung (Feedback)
