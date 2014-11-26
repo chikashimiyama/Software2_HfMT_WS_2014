@@ -92,6 +92,7 @@ Die unterschiedlichen Erhebungen und Vertiefungen der Ohrmuschel bilden zusammen
 #### HRTF
 Die Head-Related Transfer Function beschreibt die komplexe Filterwirkung von Kopf, Außenohr (Pinna) und Rumpf. Diese Amplituden-Auswertung ist neben den Laufzeitdifferenzen zwischen den Ohren wesentliche Grundlage unseres akustischen Lokalisationssystems.
 
+![HRTF Demo](https://www.youtube.com/watch?v=3b5J1OaP3pU)
 
 ### XY
 Die XY-Stereofonie ist ein Stereo- Mikrofonierungsverfahren für die Lautsprecherstereofonie. Es arbeitet nur mit Pegeldifferenzen zwischen den Kanälen Links und Rechts. Zwei gerichtete Einzelmikrofone werden dabei in möglichst geringem Membranabstand vertikal übereinander als Hauptmikrofonsystem angeordnet. Die Pegeldifferenzen ergeben sich durch die Richtwirkung der nach außen gedrehten Mikrofone. Somit gibt es nur Interchannel-Pegeldifferenz und keine Interchannel-Laufzeitdifferenz.
@@ -196,7 +197,6 @@ beschreibt die Änderung der elektrischen Polarisation und somit das Auftreten e
 
 ![](Klasse8/piezo.jpg)
 
-
 1. Lokalisation
 2. Laufzeitdifferenz (ITD)
 3. Pegeldifferenz (ILD)
@@ -214,6 +214,3 @@ beschreibt die Änderung der elektrischen Polarisation und somit das Auftreten e
 15. Elektromagnetische Tonabnehmer
 16. Piezomikrofon
 17. Piezoelektrizität
-18.
-19.
-20.
