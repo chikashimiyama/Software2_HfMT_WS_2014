@@ -3,8 +3,6 @@
 
 
 ## Mikrofon (Microphone)
-
-
 Ein Mikrofon oder Mikrophon ist ein **Schallwandler**, der Luftschall als Schallwechseldruckschwingungen in entsprechende elektrische Spannungsänderungen als Mikrofonsignal umwandelt.
 
 ### Wandler (Transducer)

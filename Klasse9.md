@@ -1,8 +1,62 @@
 # Klasse 9
 # Mikrofon 2
 
+## Bücher
+### Focal Press (http://www.focalpress.com)
+- [Modern Recording Technique](http://www.routledge.com/cw/huber-9780240821573/)
+- Mic It!: Microphones, Microphone Techniques, and Their Impact on the Final Mix
+- Handbook for Sound Engineers
+- Mixing Audio: Concepts, Practices and Tools
 
-## Mikrofonhersteller
+## Besondere Mikrofone
+
+### Richtrohrmikrofon (Shotgun Microphone)
+besitzt eine ausgeprägte Keulencharakteristik, die durch ein vor ein Druckgradientenmikrofon vorgebautes, mit seitlichen Schlitzen oder Bohrungen versehenes, nach vorn offenes Interferenzrohr zustande kommt. Dieses bewirkt, abhängig von der Rohrlänge, eine deutliche Verstärkung der Richtwirkung ab etwa 1 bis 2 kHz. Bei tieferen Frequenzen entspricht die Richtwirkung derjenigen der Mikrofonkapsel (Nieren- oder Supernierencharakteristik).Als Wandler sind Kondensator- oder Elektretmikrofone üblich.
+
+![](Klasse8/shotgun.jpg)
+- [Shure Shotgun microphone tutorial](https://www.youtube.com/watch?v=h3LSEnI3ko0)
+
+### Grenzflächenmikrofon (Boundary Microphone)
+Ein Grenzflächenmikrofon ist eine Sonderbauform von Mikrofonen, bei denen das Gehäuse Teil des Schallwandlers ist.
+
+![](Klasse8/boundary.jpg)
+
+Diese Bauart wurde entwickelt, um die vorteilhaften akustischen Eigenschaften auszunutzen, die an schallreflektierenden Flächen auftreten, ohne das Schallfeld selbst zu beeinträchtigen. Das Mikrofon wird auf eine große schallreflektierende Fläche, z. B. auf den Fußboden, gelegt. Es erhält so den maximalen Schalldruck mit verringerten Raumschallanteilen.
+
+### Elektromagnetische Tonabnehmer (Pickup)
+
+![](Klasse9/pickup.jpg)
+
+Mittels eines elektromagnetischen Tonabnehmers (engl. Pickup) wird die Saitenschwingung bei einer E-Gitarre, bei einem E-Bass oder bei elektromechanischen E-Pianos in elektrische Signale (Wechselspannung) umgewandelt. Er besteht im einfachsten Fall aus einem Dauermagneten, um den eine Spule gewickelt ist. Die Bewegung der Saiten (sie müssen aus einem ferro-magnetischen Material bestehen) im Magnetfeld ändert dessen Feldstärke. Somit wird in der Spule durch elektromagnetische Induktion eine Wechselspannung mit der Frequenz der Schwingung der Saite erzeugt. Diese Spannung beträgt etwa 0,1 V, was jedoch auch von der Dicke der Saite und ihrer Schwingungsrichtung sowie -amplitude abhängt: Je dicker eine Saite ist, desto höher ist auch die durch sie induzierte Spannung.
+
+
+#### Inductive Pickup
+Für geräusche Musik oder Telekommunikationsüberwachung häufig verwendet.
+
+[Demo mit einem Inductive  Pickup](https://www.youtube.com/watch?v=4T7qkYY7LZM&list=PLyFW-rnLqSeGxwsL0FL160g8y6XmdHZcQ)
+
+![](Klasse9/telefone.jpeg)
+
+[Auch in Deutschland verfügbar](http://www.henri.de/audiotechnik/mikrofon/tonabnehmer/4757/tonabnehmer-saugnapf-mit-anschlussschnur-3-5mm-klinke.html)
+
+### Piezomikrofon (Piezo microphone)
+ist ein elektroakustischer Wandler, der Druckschwankungen in entsprechende elektrische Signale wandelt. Eine Membran folgt den Druckschwankungen. Sie ist mechanisch mit einem piezoelektrischen Element gekoppelt, das durch die Druckschwankungen minimal verformt wird. Die elektrische Spannungsschwankungen des piezoelektrischen Materials (meist Blei-Zirkonat-Titanat) werden zum Verstärker übertragen.
+
+![](Klasse9/konktakt.jpg)
+
+[Nicholas Collings - Experiment mit Piezo ](http://youtu.be/P8iAshJ1Pk0?list=PLyFW-rnLqSeGxwsL0FL160g8y6XmdHZcQ)
+
+[Klangbeispie mit Kontaktmikro](http://youtu.be/FOfEsUTZRK0?t=1m11s)
+
+[Anwendung von Piezo](http://youtu.be/8fXl67zGZlo)
+
+#### Piezoelektrizität (Piezoelectricity)
+beschreibt die Änderung der elektrischen Polarisation und somit das Auftreten einer elektrischen Spannung an Festkörpern, wenn sie elastisch verformt werden (direkter Piezoeffekt). Umgekehrt verformen sich Materialien bei Anlegen einer elektrischen Spannung (inverser Piezoeffekt).
+
+![](Klasse8/piezo.jpg)
+
+
+## Bekannte Mikrofonhersteller
 
 - [Schoeps](http://www.schoeps.de/en/home)
   - WDR benutzt Schoeps MK4 - MK5 für Aufnahme
@@ -16,8 +70,6 @@
   - MD 421, gut für Schlagzeug
 - [Behringer](http://www.behringer.com)
   - Günstig! Gut für dein erstes Mikro.
-
-## Die Mikrofone, die alle auswendig lernen muss
 
 ### Shure SM 57 (Dynamische Mikrofon)
   - Snare Drum, Schlagzeug, E-Gittare u.a.
@@ -92,7 +144,7 @@ Die unterschiedlichen Erhebungen und Vertiefungen der Ohrmuschel bilden zusammen
 #### HRTF
 Die Head-Related Transfer Function beschreibt die komplexe Filterwirkung von Kopf, Außenohr (Pinna) und Rumpf. Diese Amplituden-Auswertung ist neben den Laufzeitdifferenzen zwischen den Ohren wesentliche Grundlage unseres akustischen Lokalisationssystems.
 
-![HRTF Demo](https://www.youtube.com/watch?v=3b5J1OaP3pU)
+[HRTF Demo](https://www.youtube.com/watch?v=3b5J1OaP3pU)
 
 ### XY
 Die XY-Stereofonie ist ein Stereo- Mikrofonierungsverfahren für die Lautsprecherstereofonie. Es arbeitet nur mit Pegeldifferenzen zwischen den Kanälen Links und Rechts. Zwei gerichtete Einzelmikrofone werden dabei in möglichst geringem Membranabstand vertikal übereinander als Hauptmikrofonsystem angeordnet. Die Pegeldifferenzen ergeben sich durch die Richtwirkung der nach außen gedrehten Mikrofone. Somit gibt es nur Interchannel-Pegeldifferenz und keine Interchannel-Laufzeitdifferenz.
@@ -111,8 +163,7 @@ Die AB Stereophonie platziert zwei völlig getrennte Mikrophone mit großem räu
 ### ORTF
 Bei der ORTF-Stereophonie (Office de Radiodiffusion Télévision Française) werden nun beide Stereo-Techniken (AB und XY) miteinander kombiniert. Hierfür werden zwei Nieren-Mikrofone in einem Abstand von 17 cm und einem Winkel von 110° zueinander aufgestellt. Dadurch wird sowohl ein Laufzeit- als auch ein Intensitätsunterschied erzielt - was schon recht nahe an das natürliche Stereoempfinden herankommt.
 
-![](Klasse8/ortf.png)
-![](Klasse8/ortf_real.jpeg)
+![](Klasse9/ortf.png)
 
 [Visualisierung Stereofpnnie](http://www.sengpielaudio.com/Visualization-XY90.htm)
 
@@ -122,7 +173,7 @@ ist ein stereofones Signalkodierungsverfahren. Dabei werden die Stereokanäle ni
 MS-Signale können durch Summenbildung (Mittenkanal M) und Differenzbildung (Seitenkanal S) der Links- und Rechts-Kanäle gewonnen werden: Der Mitte-Kanal führt die auf den üblichen Kanälen Links-Rechts identischen, der Seite-Kanal die unterschiedlichen Signalanteile. Umgekehrt lassen sich MS-Kanäle in LR-Kanäle umwandeln, so dass sie auf den gängigen Stereo-Lautsprechersystemen wiedergegeben werden können:
 
 
-![](Klasse9/220px-MS_Stereo.png)
+![](Klasse9/MS_Stereo.png)
 ![](Klasse9/ms_setting.jpg)
 
 ![](Klasse9/Vergleich.jpg)
@@ -150,52 +201,6 @@ MS-Signale können durch Summenbildung (Mittenkanal M) und Differenzbildung (Sei
 ![](Klasse9/mobile.png)
 
 Portabler digitaler Audio-Rekorder sind heute meist mit Flash-Speicher und Speicherkarten ausgestattet, sind batteriebetrieben, haben meist eingebaute Mikrophone und werden teilweise auch als Field Recorder bezeichnet. In der Regel verfügen sie auch über einen Kopfhörerausgang und einen USB-Anschluss, so dass sie auch als MP3-Spieler und im Zusammenhang mit Computern eingesetzt werden können.
-
-
-## Besondere Mikrofone
-
-### Richtrohrmikrofon (Shotgun Microphone)
-besitzt eine ausgeprägte Keulencharakteristik, die durch ein vor ein Druckgradientenmikrofon vorgebautes, mit seitlichen Schlitzen oder Bohrungen versehenes, nach vorn offenes Interferenzrohr zustande kommt. Dieses bewirkt, abhängig von der Rohrlänge, eine deutliche Verstärkung der Richtwirkung ab etwa 1 bis 2 kHz. Bei tieferen Frequenzen entspricht die Richtwirkung derjenigen der Mikrofonkapsel (Nieren- oder Supernierencharakteristik).Als Wandler sind Kondensator- oder Elektretmikrofone üblich.
-
-![](Klasse8/shotgun.jpg)
-- [Shure Shotgun microphone tutorial](https://www.youtube.com/watch?v=h3LSEnI3ko0)
-
-### Grenzflächenmikrofon (Boundary Microphone)
-Ein Grenzflächenmikrofon ist eine Sonderbauform von Mikrofonen, bei denen das Gehäuse Teil des Schallwandlers ist.
-
-![](Klasse8/boundary.jpg)
-
-Diese Bauart wurde entwickelt, um die vorteilhaften akustischen Eigenschaften auszunutzen, die an schallreflektierenden Flächen auftreten, ohne das Schallfeld selbst zu beeinträchtigen. Das Mikrofon wird auf eine große schallreflektierende Fläche, z. B. auf den Fußboden, gelegt. Es erhält so den maximalen Schalldruck mit verringerten Raumschallanteilen.
-
-### Elektromagnetische Tonabnehmer (Pickup)
-
-![](Klasse9/pickup.jpg)
-
-Mittels eines elektromagnetischen Tonabnehmers (engl. Pickup) wird die Saitenschwingung bei einer E-Gitarre, bei einem E-Bass oder bei elektromechanischen E-Pianos in elektrische Signale (Wechselspannung) umgewandelt. Er besteht im einfachsten Fall aus einem Dauermagneten, um den eine Spule gewickelt ist. Die Bewegung der Saiten (sie müssen aus einem ferro-magnetischen Material bestehen) im Magnetfeld ändert dessen Feldstärke. Somit wird in der Spule durch elektromagnetische Induktion eine Wechselspannung mit der Frequenz der Schwingung der Saite erzeugt. Diese Spannung beträgt etwa 0,1 V, was jedoch auch von der Dicke der Saite und ihrer Schwingungsrichtung sowie -amplitude abhängt: Je dicker eine Saite ist, desto höher ist auch die durch sie induzierte Spannung.
-
-
-#### Inductive Pickup
-
-[Inductive  Pickup](https://www.youtube.com/watch?v=4T7qkYY7LZM&list=PLyFW-rnLqSeGxwsL0FL160g8y6XmdHZcQ)
-
-![](Klasse9/telefone.jpeg)
-
-### Piezomikrofon (Piezo microphone)
-ist ein elektroakustischer Wandler, der Druckschwankungen in entsprechende elektrische Signale wandelt. Eine Membran folgt den Druckschwankungen. Sie ist mechanisch mit einem piezoelektrischen Element gekoppelt, das durch die Druckschwankungen minimal verformt wird. Die elektrische Spannungsschwankungen des piezoelektrischen Materials (meist Blei-Zirkonat-Titanat) werden zum Verstärker übertragen.
-
-![](Klasse9/konktakt.jpg)
-
-[Nicholas Collings - Experiment mit Piezo ](http://youtu.be/P8iAshJ1Pk0?list=PLyFW-rnLqSeGxwsL0FL160g8y6XmdHZcQ)
-
-[Klangbeispie mit Kontaktmik](http://youtu.be/FOfEsUTZRK0?t=1m11s)
-
-[Anwendung von Piezo](http://youtu.be/8fXl67zGZlo)
-
-#### Piezoelektrizität (Piezoelectricity)
-beschreibt die Änderung der elektrischen Polarisation und somit das Auftreten einer elektrischen Spannung an Festkörpern, wenn sie elastisch verformt werden (direkter Piezoeffekt). Umgekehrt verformen sich Materialien bei Anlegen einer elektrischen Spannung (inverser Piezoeffekt).
-
-
-![](Klasse8/piezo.jpg)
 
 1. Lokalisation
 2. Laufzeitdifferenz (ITD)
