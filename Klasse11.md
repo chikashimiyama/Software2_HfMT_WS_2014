@@ -3,12 +3,13 @@
 # Psychoakustik
 
 ## Psychoakustik (Psychoacoustics)
-ein Teilgebiet der Psychophysik. Sie befasst sich mit der Beschreibung des Zusammenhanges der menschlichen Empfindung von Schall als Hörereignis und mit dessen physikalischen Schallfeldgrößen als Schallereignis. Die Verarbeitung physikalischer Signale zu einem Höreindruck wird dabei in mehreren Stufen modelliert. Diese werden dem einzelnen Ohr und der kognitiven Signalverarbeitung zugeordnet. Die Psychoakustik untersucht also das Verhältnis von objektiv-physikalischem Reiz – den Schallwellen – und dem Eindruck dessen im Rezipienten – wie z. B. Lautheit, Schärfe, Tonheit, Rauhigkeit, Tonhaltigkeit, Impulshaltigkeit, Schwankungsstärke etc.
-
+　
 
 ## Gehörrichtige Lautstärke (Equal-loudness contour)
 beschriebt wie Schallaufnahmen so wiedergegeben werden, dass sie bei unterschiedlichen Lautstärken einen ähnlichen Höreindruck ergeben.
+
 ![](Klasse11/equal-loudness.png)
+
 Die Lautstärkewahrnehmung ist stark frequenzabhängig. Die Abhängigkeit der Lautstärkewahrnehmung von der Frequenz fällt darüber hinaus für unterschiedliche Lautstärkepegel unterschiedlich aus.
 
 ## Lautstärke
@@ -67,13 +68,13 @@ Der Bezugswert für Luftschall wurde Anfang des 20. Jahrhunderts festgelegt. Die
 | Blätterrauschen, ruhiges Atmen | 10 dB SPL |
 | Hörschwelle | 0 dB SPL |
 
-### Schallpegelmesser
+### Schallpegelmesser (Sound Level Meter)
 Ein Schallpegelmesser ist ein Messgerät zur Bestimmung von Schalldruckpegeln. Sie zeigen Pegelwerte in Dezibel (dB SPL) an, verbunden mit der Angabe des Pegels; insbesondere werden Frequenz- und Zeitbewertung angezeigt. Schallpegelmesser finden dort Anwendung, wo eine Quantifizierung von Geräuschen notwendig ist, wie z. B. bei der Beurteilung von Fluglärm, Maschinenlärm, Umweltlärm und Lärm am Arbeitsplatz.
 
 ![](Klasse11/sl.jpg)
 ![](Klasse11/messer.jpeg) an einem Flughafen
 
-#### Litaratur
+#### Links
 [Auditive Wahrnehmung und kritische Bandbreiten](http://www.netaudio.de/psychoakustik/Daten/startseite.htm)
 
 
@@ -85,15 +86,4 @@ Ein Schallpegelmesser ist ein Messgerät zur Bestimmung von Schalldruckpegeln. S
 6. Simultane Verdeckung (simultaneous Masking)
 7. Temporäre Verdeckung (temporal Masking)
 8. Schalldruckpegel (Sound Pressur Level)
-9.
-10.
-11.
-12.
-13.
-14.
-15.
-16.
-17.
-18.
-19.
-20.
+9. Schallpegelmesser

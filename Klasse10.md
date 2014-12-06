@@ -1,5 +1,4 @@
 # Klasse 10
-# Computer
 
 ## Computer
 Ein Computer ist ein Gerät, das mittels programmierbarer Rechenvorschriften Daten verarbeitet.
@@ -17,6 +16,12 @@ ist eine Maschine oder eine elektronische Schaltung, die gemäß übergebenen Be
 z.B. Intel Core i7, Xeon, ARM A7
 
 ![](Klasse10/cpu.jpg)
+
+
+#### mooresche Gesetz
+Das mooresche Gesetz (englisch Moore's law; deutsch „Gesetz“ im Sinne von „Gesetzmäßigkeit“) besagt, dass sich die Komplexität integrierter Schaltkreise mit minimalen Komponentenkosten regelmäßig verdoppelt; je nach Quelle werden 12 bis 24 Monate als Zeitraum genannt.
+
+![](Klasse10/moore.png)
 
 ####  Taktfrequenz (Clock Rate)
 Die Taktfrequenz ist die Frequenz, die aus der Systemuhr, der Clock, abgeleitet und für Synchronisation und Steuerung der Komponenten benutzt wird.
@@ -96,7 +101,31 @@ Grafische Oberfläche von Windows
 ### Benchmark
 Benchmarking bezeichnet die vergleichende Analyse von Ergebnissen oder Prozessen mit einem festgelegten Bezugswert oder Vergleichsprozess (von engl. Benchmark).
 
+## Pionier der Computermusik
 
+#### Max Mathews (1926-2011) / Der Vater der Computermusik
+Max Mathews war ein US-amerikanischer Elektroingenieur und Pionier der Computermusik. 1957 spielte ein IBM 704-Computer eine 17 Sekunden lange Melodie, die sein Programm Music I erstellt hatte, das er an den Bell Laboratories entwickelt hatte. Dies gilt als Gründungsdatum der Computermusik.
+
+![](Klasse10/Mathews.jpg)
+
+- [Interview mit Max Mathews](http://blog.frieze.com/max-mathews/)
+
+- [Silver Scale von Newman Guttman / Max Mathews](https://www.youtube.com/watch?v=PM64-lqYyZ8) Die erste Musik von Computer in der Menschheitsgeschichte
+
+#### Lejaren Hiller (1924-1994) / Der Vater der algorithmischen Musik
+
+Hiller interessierte sich zeitig für Musik nahm Kompositionsunterricht bei Harvey Officer und Oboenunterricht bei Joseph Marx. Er studierte dann bis 1947 Chemie an der Princeton University und parallel Musiktheorie und Komposition bei Milton Babbitt und Roger Sessions. Von 1946 bis 1952 arbeitete er in der Forschungsabteilung von DuPont in Waynesboro, Virginia, wo er das erste zuverlässige Verfahren zum Färben von Orlon entwickelte.
+
+![](Klasse10/hiller.jpg)
+
+Ab 1952 unterrichtete Hiller an der Fakultät für Chemie der University of Illinois. Daneben setzte er seine musikalische Ausbildung bei Hubert Kessler fort. Er hatte an der Fakultät für Chemie Zugang zu Computern und experimentierte mit deren Einsatz bei der Komposition. So entstand 1957 als erste computergestützte Komposition seine ILLIAC Suite (String Quartet No. 4). 1958 wechselte er zur Fakultät für Musik und gründete dort ein Studio für experimentelle Musik.
+
+- [ILLIAC Suite](https://www.youtube.com/watch?v=n0njBFLQSk8)
+
+### Algorithmische Komposition
+bezeichnet man jene Kompositionsverfahren, bei denen die Partitur durch einen automatischen, mathematisch beschreibbaren Prozess oder Algorithmus erzeugt wird.
+
+Im Prinzip lässt sich jedes Musikstück als eine Folge von Zahlen darstellen: Ist es bei einem Instrument möglich, die Tonhöhe sowie die Anschlagsstärke und -dauer einer Note zu variieren, dann ist jede Note mit drei Zahlen darstellbar.
 
 # Terminologien
 
