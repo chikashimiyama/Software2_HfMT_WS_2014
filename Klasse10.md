@@ -11,12 +11,16 @@ Die Hauptplatine ist die zentrale Platine eines Computers. Auf ihr sind die einz
 ![](Klasse10/hp.png)
 
 ### CPU / Central Processing Unit
-ist eine Maschine oder eine elektronische Schaltung, die gemäß übergebenen Befehlen andere Maschinen oder elektrische Schaltungen steuert und dabei einen Prozess oder Algorithmus vorantreibt, was meist Datenverarbeitung beinhaltet. Der weitere Artikel beschreibt ausschließlich diese Bedeutung.
+ist eine Maschine oder eine elektronische Schaltung, die gemäß übergebenen Befehlen andere Maschinen oder elektrische Schaltungen steuert und dabei einen Prozess oder Algorithmus vorantreibt, was meist Datenverarbeitung beinhaltet.
 
 z.B. Intel Core i7, Xeon, ARM A7
 
 ![](Klasse10/cpu.jpg)
 
+#### Alogorithmus
+Ein Algorithmus ist eine eindeutige Handlungsvorschrift zur Lösung eines Problems oder einer Klasse von Problemen. Algorithmen bestehen aus endlich vielen, wohldefinierten Einzelschritten. Somit können sie zur Ausführung in einem Computerprogramm implementiert, aber auch in menschlicher Sprache formuliert werden. Bei der Problemlösung wird eine bestimmte Eingabe in eine bestimmte Ausgabe überführt.
+
+- [Sorting Algorithm](https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html)
 
 #### mooresche Gesetz
 Das mooresche Gesetz (englisch Moore's law; deutsch „Gesetz“ im Sinne von „Gesetzmäßigkeit“) besagt, dass sich die Komplexität integrierter Schaltkreise mit minimalen Komponentenkosten regelmäßig verdoppelt; je nach Quelle werden 12 bis 24 Monate als Zeitraum genannt.
@@ -28,7 +32,7 @@ Die Taktfrequenz ist die Frequenz, die aus der Systemuhr, der Clock, abgeleitet 
 
 ![](Klasse10/takt.png)
 
-### Arbeitsspeicher (memory)
+### Arbeitsspeicher (memory / RAM)
 Bezeichnung für den Speicher, der die gerade auszuführenden Programme oder Programmteile und die [dabei] benötigten Daten enthält. Der Hauptspeicher ist eine Komponente der Zentraleinheit. Da der Prozessor unmittelbar auf den Hauptspeicher zugreift, beeinflussen dessen Leistungsfähigkeit und Größe in wesentlichem Maße die Leistungsfähigkeit der gesamten Rechenanlage.
 
 ![](Klasse10/arbeitspeicher.jpeg)
@@ -47,7 +51,7 @@ ist ein nichtflüchtiges elektronisches Speichermedium der Computertechnik. Die 
 ![](Klasse10/ssd.jpg)
 
 
-### Netzteil
+### Netzteil (Power Unit)
 Ein Netzteil dient zur Stromversorgung in Mikrocomputern. Der Netz-Wechselstrom wird darin in die im Computer benötigten niedrigeren Gleichspannungen transformiert, gleichgerichtet, gesiebt und geregelt. Beim PC ist es im Gehäuse des Computers eingebaut; Laptops und einige Miniatur-PCs haben externe Netzteile mit ähnlichen Eigenschaften.
 
 ![](Klasse10/netzteil.jpg)
@@ -60,7 +64,7 @@ Eine Soundkarte (auch Audiokarte, selten Tonkarte, engl. Sound Card), im eigenen
 ### Grafikkarte (Video card)
 Eine Grafikkarte steuert in einem Computer die Grafikausgabe. Bei Ausführung eines Programms berechnet der Prozessor die Daten, leitet diese an die Grafikkarte weiter und die Grafikkarte wandelt die Daten so um, dass der Monitor oder Beamer alles als Bild wiedergeben kann. Grafikkarten werden entweder als PC-Erweiterungskarten (über die Bussysteme PCI, AGP oder PCI Express, früher auch ISA oder VLB) mit der Hauptplatine verbunden oder sind im Chipsatz auf der Hauptplatine enthalten. Mittlerweile ist die Integration soweit vorangeschritten, dass bereits in Hauptprozessoren Bestandteile für die Grafikausgabe vorhanden sind (bei Intel seit Core iX-Generation, bei AMD im Fusion-Programm).
 
-### Optisches Laufwerk
+### Optisches Laufwerk (Optical Drive)
 Ein optisches Laufwerk ist ein Gerät zum Zugriff auf optische Datenträger z.B. CD-Laufwerk, DVD- Laufwerk, oder Blu-Ray Laufwerk.
 
 ![](Klasse10/cd-rom.jpg)
@@ -70,7 +74,7 @@ Bei einem Computermonitor handelt es sich um ein Gerät, das einen Bildschirm zu
 
 ![](Klasse10/monitor.png)
 
-#### Bildauflösung
+#### Bildauflösung (Resolution)
 Die Bildauflösung ist ein umgangssprachliches Maß für die Bildgröße einer Rastergrafik. Sie wird durch die Gesamtzahl der Bildpunkte oder durch die Anzahl der Spalten (Breite) und Zeilen (Höhe) einer Rastergrafik angegeben.
 
 ![](Klasse10/1320px-Video_Standards.svg.png)
@@ -97,6 +101,13 @@ Unix-Basiertes Betriebssystem: Mac OSX, Linux, Android, Chrome OS, iOS
 ![](Klasse10/gui.png)
 
 Grafische Oberfläche von Windows
+
+### Kommandozeile (Command Line Interface = CLI)
+
+Die Kommandozeile ist ein Eingabebereich (interface) für die Steuerung einer Software, der typischerweise (aber nicht zwingend) im Textmodus abläuft. Je nach Betriebssystem wird die Kommandozeile von einer Shell oder einem Kommandozeilen- oder Befehlsinterpreter (im Englischen ebenfalls mit CLI für command-line interpreter abgekürzt; die Abkürzung hat also zwei Bedeutungen) ausgewertet und die entsprechende Funktion ausgeführt.
+
+![](Klasse10/jIZt6.png)
+CLI von Unix
 
 ### Benchmark
 Benchmarking bezeichnet die vergleichende Analyse von Ergebnissen oder Prozessen mit einem festgelegten Bezugswert oder Vergleichsprozess (von engl. Benchmark).
@@ -127,6 +138,21 @@ bezeichnet man jene Kompositionsverfahren, bei denen die Partitur durch einen au
 
 Im Prinzip lässt sich jedes Musikstück als eine Folge von Zahlen darstellen: Ist es bei einem Instrument möglich, die Tonhöhe sowie die Anschlagsstärke und -dauer einer Note zu variieren, dann ist jede Note mit drei Zahlen darstellbar.
 
+- Beispiel von algorithmischer Komposition (https://www.youtube.com/watch?v=o7zTLw7s2dc)
+
+#### Computer Music Journal von MIT Press
+- [Webseite](http://www.mitpressjournals.org/cmj)
+
+## Heutige Computer für musikalische Anwendung
+
+- Smartfon
+/ [Atau und Adam 4 Hands iPhone](http://www.ataut.net/site/adam-atau-4-hands-iphone)
+
+- [Raspberry Pi](http://www.raspberrypi.org) / [Raspberry Pi Guitar Effect](https://www.youtube.com/watch?v=bLcW70tcBX8)
+
+- [Intel Edison](http://www.wired.co.uk/news/archive/2014-01/07/intel-edison)
+
+
 # Terminologien
 
 1. Computer
@@ -147,3 +173,6 @@ Im Prinzip lässt sich jedes Musikstück als eine Folge von Zahlen darstellen: I
 12. Unix
 19. Grafische Oberfläche
 20. Benchmark
+21. Max Mathews
+22. Algorithmus
+23. Algorithmische Komposition
