@@ -152,6 +152,63 @@ Im Prinzip lässt sich jedes Musikstück als eine Folge von Zahlen darstellen: I
 
 - [Intel Edison](http://www.wired.co.uk/news/archive/2014-01/07/intel-edison)
 
+## Software für Computermusik
+
+### DAW
+
+- ProTools
+- Cubase / Nuendo
+- Logic
+- Sonar
+- Digital Performer
+- Ableton Live
+- FL Studio
+
+[Unterschied zwischen DAWs](http://intenseproductions.blogspot.de/2011/01/which-daw-should-i-use.html)
+
+Free
+- Audacity
+- Ardour
+
+- [AlternativeTo](http://alternativeto.net) Man kann hier einfach änhliche Alternativen finden
+
+### Audio Programmierungsumgebung
+
+- [Reaktor](http://www.native-instruments.com/en/products/komplete/synths/reaktor-5/)
+- [Max](http://cycling74.com)
+- [Puredata (free)](http://puredata.info)
+- [SuperCollider (free)](http://supercollider.sourceforge.net)
+- [Chuck (free)](http://chuck.cs.princeton.edu)
+
+### Notensatzprogramm
+
+- [Finale](http://www.finalemusic.com)
+- [Sibelius](http://www.avid.com/US/products/sibelius)
+- [Notability Pro](http://debussy.music.ubc.ca/NoteAbility/)
+
+### Arrangement
+
+- [Band in a box](http://youtu.be/Pf351p2jLYo?t=4m3s)
+
+### Melodyne
+Melodyne ist ein Computerprogramm zum Manipulieren von Tönen.
+
+- [Melodyne](http://www.celemony.com/en/melodyne/what-is-melodyne)
+
+- [demo](http://youtu.be/8zeLKMHxbN8?t=3m34s)
+
+### Vocaloid
+Vocaloid ist ein Software-Synthesizer, der es durch Sprachsynthese ermöglicht, künstlichen Gesang zu erzeugen, der dem einer menschlichen Stimme ähnelt.
+
+- [demo](http://youtu.be/cQKGUgOfD8U?t=17s)
+
+... Maschinen ersetzen Musiker ?
+
+- [Roboter kann eine Geine spielen](https://www.youtube.com/watch?v=klzSN2giygY)
+
+- [Robot Band](https://www.youtube.com/watch?v=kO5k3yGXuc8)
+
+
 
 # Terminologien
 
