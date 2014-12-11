@@ -190,6 +190,12 @@ Free
 
 - [Band in a box](http://youtu.be/Pf351p2jLYo?t=4m3s)
 
+### Computer-gestützte Komposition
+
+- [OpenMusic](http://forumnet.ircam.fr/product/openmusic/)
+
+- [Brian Ferneyhough String Quartet No.6](https://www.youtube.com/watch?v=GnlVlo2TVjQ)
+
 ### Melodyne
 Melodyne ist ein Computerprogramm zum Manipulieren von Tönen.
 
@@ -201,6 +207,26 @@ Melodyne ist ein Computerprogramm zum Manipulieren von Tönen.
 Vocaloid ist ein Software-Synthesizer, der es durch Sprachsynthese ermöglicht, künstlichen Gesang zu erzeugen, der dem einer menschlichen Stimme ähnelt.
 
 - [demo](http://youtu.be/cQKGUgOfD8U?t=17s)
+
+
+### Weitere musikalische Anwendungen von Computer
+
+- **Generative Musik**
+ ist ein von Brian Eno geprägter Begriff bzw. Kompositionskonzept. Die Musik wird in Regel mit Hilfe einer Software realisiert. Die einzelnen Musikfragmente (man könnte auch von modularen Komponenten spechen) bewegen sich zwar innerhalb gewisser Vorgaben, werden aber vom Computer jedes mal anders variiert.
+
+[Autechre](https://www.youtube.com/watch?v=ev3vENli7wQ)
+
+- **Glitch**
+ ist ein Subgenre der Clicks & Cuts, das auf digitalen Störgeräuschen, (vermeintlich) zufälligen Klangereignissen oder programmierten Algorithmen basiert. Die Bezeichnung lehnt sich an den gleichnamigen Begriff aus der Elektronik an: Dort beschreibt Glitch Fehler in Schaltkreisen. 
+[Oval](https://www.youtube.com/watch?v=XoonfG7T4DU)
+[Ryoji Ikeda](https://www.youtube.com/watch?v=F5hhFMSAuf4)
+
+- **Live Coding**
+[Andrew Sorensen](http://youtu.be/GSGKEy8vHqg?t=2m30s)
+[Impromptu](http://impromptu.moso.com.au)
+
+- **Noise Music**
+[]
 
 ... Maschinen ersetzen Musiker ?
 
