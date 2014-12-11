@@ -228,16 +228,14 @@ Vocaloid ist ein Software-Synthesizer, der es durch Sprachsynthese ermöglicht, 
 - **Noise Music**
 [Merzbow](https://www.youtube.com/watch?v=AguPH0XBxdw)
 
-- **Networked Music**
-
-
 - **Sonification**
-
-
+[Sonificiation of Twitter](https://www.youtube.com/watch?v=MUsBeJoBRxw)
 
 - **Brain Music**
 [Brain Dreams Music](http://zkm.de/media/video/ima-lab-no-10-kiyoshi-furukawa-brain-dreams-music)
 
+- **Laptop Orchestra**
+[SLOrk - Stanford Laptop Orchestra](https://www.youtube.com/watch?v=c1f1DATjZUg)
 
 ... Maschinen ersetzen Musiker ?
 
