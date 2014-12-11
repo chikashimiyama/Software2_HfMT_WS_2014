@@ -7,7 +7,7 @@ Eine IP-Adresse ist eine Adresse in Computernetzen, die – wie das Internet –
 ### IPv4
 Die bekannteste Notation der heute geläufigen IPv4-Adressen besteht aus vier Zahlen, die Werte von 0 bis 255 annehmen können und mit einem Punkt getrennt werden, beispielsweise 192.0.2.42.
 
-![](Klasse12/300px-Ipv4_address.svg.png)
+![](Klasse11/300px-Ipv4_address.svg.png)
 
 ### IPv6
 Durch den rasch steigenden Bedarf an IP-Adressen ist absehbar, dass der nutzbare Adressraum von IPv4 früher oder später erschöpft sein wird. Vor allem aus diesem Grund wurde IPv6 entwickelt. Es verwendet 128 Bit zur Speicherung von Adressen, damit sind 340282366920938463463374607431768211456 Adressen darstellbar.
@@ -23,12 +23,12 @@ Im Falle von Ethernet-Netzen besteht die MAC-Adresse aus 48 Bit (sechs Bytes). D
 
 - Mit "Network Utility" prüfen Sie IP-Address und MAC-Address.
 
-![](Klasse12/ip_address.png)
+![](Klasse11/ip_address.png)
 
 ### Ping
 ist ein Diagnose-Werkzeug, mit dem überprüft werden kann, ob ein bestimmter Host in einem IP-Netzwerk erreichbar ist. Daneben geben die meisten heutigen Implementierungen dieses Werkzeuges auch die Zeitspanne zwischen dem Aussenden eines Paketes zu diesem Host und dem Empfangen eines daraufhin unmittelbar zurückgeschickten Antwortpaketes an.
 
-![](Klasse12/ping.png)
+![](Klasse11/ping.png)
 
 
 ### LAN
@@ -39,18 +39,18 @@ Ein Wide Area Network (WAN, dt. Weitverkehrsnetz) ist ein Rechnernetz, das sich 
 
 Die Anzahl der angeschlossenen Rechner ist unbegrenzt. WANs erstrecken sich über Länder oder sogar Kontinente. WANs werden benutzt, um verschiedene LANs, aber auch einzelne Rechner miteinander zu vernetzen. Einige WANs gehören bestimmten Organisationen und werden ausschließlich von diesen genutzt. Andere WANs werden durch Internetdienstanbieter errichtet oder erweitert, um einen Zugang zum Internet anbieten zu können.
 
-![](Klasse12/wanlan.png)
+![](Klasse11/wanlan.png)
 
 ### Router
 sind Netzwerkgeräte, die Netzwerkpakete zwischen mehreren Rechnernetzen weiterleiten können. Sie werden am häufigsten zur Internetanbindung, zur sicheren Kopplung mehrerer Standorte (Virtual Private Network) oder zur direkten Kopplung mehrerer lokaler Netzwerksegmente.
 
-![](Klasse12/router.jpeg)
+![](Klasse11/router.jpeg)
 
 ### NAT
 Network Address Translation (NAT) ist in Rechnernetzen der Sammelbegriff für Verfahren, die automatisiert Adressinformationen in Datenpaketen durch andere ersetzen, um verschiedene Netze zu verbinden. Daher kommen sie typischerweise auf **Routern** zum Einsatz.
 
 
-![](Klasse12/ip.png)
+![](Klasse11/ip.png)
 
 ### DNS (Domain Name Server)
 DNS – Übersetzung von Rechnernamen in IP-Adressen
@@ -61,13 +61,13 @@ DNS – Übersetzung von Rechnernamen in IP-Adressen
 - Mit "Network Utility" konvertieren Sie die URL von HFMT in IP-Addresse.
 - Mit IP-Adresse die Webseite der HFMT zugreifen.
 
-![](Klasse12/lookup.png)
-![](Klasse12/website.png)
+![](Klasse11/lookup.png)
+![](Klasse11/website.png)
 
 ### Experiment 3
 - Prüfen Sie die IP-Adress des Routers mit Google
 
-![](Klasse12/globalIP.png)
+![](Klasse11/globalIP.png)
 
 ## Port
 Ein Port ist der Teil einer Netzwerk-Adresse, der die Zuordnung von TCP- und UDP-Verbindungen und -Datenpaketen zu Server- und Client-Programmen durch Betriebssysteme bewirkt. Zu jeder Verbindung dieser beiden Protokolle gehören zwei Ports, je einer auf Seiten des Clients und des Servers. Gültige Portnummern sind 1-65535.
@@ -115,7 +115,7 @@ Dann folgen die einzelnen Werte für die Parameter. Will man an unserem imaginä
 
 /synthesizer/zynaddsubfx/filter/lowpass1/resonance "f" 1998.4f.
 
-![](Klasse12/OSC_address.png)
+![](Klasse11/OSC_address.png)
 ## Terminologien
 
 1. IP Address
