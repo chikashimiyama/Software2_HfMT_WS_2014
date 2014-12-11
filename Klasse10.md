@@ -217,7 +217,7 @@ Vocaloid ist ein Software-Synthesizer, der es durch Sprachsynthese ermöglicht, 
 [Autechre](https://www.youtube.com/watch?v=ev3vENli7wQ)
 
 - **Glitch**
- ist ein Subgenre der Clicks & Cuts, das auf digitalen Störgeräuschen, (vermeintlich) zufälligen Klangereignissen oder programmierten Algorithmen basiert. Die Bezeichnung lehnt sich an den gleichnamigen Begriff aus der Elektronik an: Dort beschreibt Glitch Fehler in Schaltkreisen. 
+ ist ein Subgenre der Clicks & Cuts, das auf digitalen Störgeräuschen, (vermeintlich) zufälligen Klangereignissen oder programmierten Algorithmen basiert. Die Bezeichnung lehnt sich an den gleichnamigen Begriff aus der Elektronik an: Dort beschreibt Glitch Fehler in Schaltkreisen.
 [Oval](https://www.youtube.com/watch?v=XoonfG7T4DU)
 [Ryoji Ikeda](https://www.youtube.com/watch?v=F5hhFMSAuf4)
 
@@ -226,7 +226,18 @@ Vocaloid ist ein Software-Synthesizer, der es durch Sprachsynthese ermöglicht, 
 [Impromptu](http://impromptu.moso.com.au)
 
 - **Noise Music**
-[]
+[Merzbow](https://www.youtube.com/watch?v=AguPH0XBxdw)
+
+- **Networked Music**
+
+
+- **Sonification**
+
+
+
+- **Brain Music**
+[Brain Dreams Music](http://zkm.de/media/video/ima-lab-no-10-kiyoshi-furukawa-brain-dreams-music)
+
 
 ... Maschinen ersetzen Musiker ?
 

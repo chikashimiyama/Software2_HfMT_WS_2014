@@ -9,9 +9,6 @@ Die bekannteste Notation der heute geläufigen IPv4-Adressen besteht aus vier Za
 
 ![](Klasse11/300px-Ipv4_address.svg.png)
 
-### IPv6
-Durch den rasch steigenden Bedarf an IP-Adressen ist absehbar, dass der nutzbare Adressraum von IPv4 früher oder später erschöpft sein wird. Vor allem aus diesem Grund wurde IPv6 entwickelt. Es verwendet 128 Bit zur Speicherung von Adressen, damit sind 340282366920938463463374607431768211456 Adressen darstellbar.
-
 ## MAC-Adresse
 Die MAC-Adresse (Media-Access-Control-Adresse) ist die Hardware-Adresse jedes einzelnen Netzwerkadapters, die als eindeutiger Identifikator des Geräts in einem Rechnernetz dient.
 
@@ -49,8 +46,10 @@ sind Netzwerkgeräte, die Netzwerkpakete zwischen mehreren Rechnernetzen weiterl
 ### NAT
 Network Address Translation (NAT) ist in Rechnernetzen der Sammelbegriff für Verfahren, die automatisiert Adressinformationen in Datenpaketen durch andere ersetzen, um verschiedene Netze zu verbinden. Daher kommen sie typischerweise auf **Routern** zum Einsatz.
 
-
 ![](Klasse11/ip.png)
+
+### DHCP
+Das Dynamic Host Configuration Protocol (DHCP) ist ein Kommunikationsprotokoll in der Computertechnik. Es ermöglicht die Zuweisung der Netzwerkkonfiguration an Clients durch einen Server. Durch DHCP ist die automatische Einbindung eines Computers in ein bestehendes Netzwerk ohne dessen manuelle Konfiguration möglich. An diesem, dem Client, muss im Normalfall lediglich der automatische Bezug der IP-Adresse eingestellt sein. Beim Start des Rechners am Netz kann er die IP-Adresse, die Netzmaske, das Gateway und DNS-Server. Ohne DHCP sind dazu – abhängig vom Netzwerk, an das der Rechner angeschlossen werden soll – einige Einstellungen nötig.
 
 ### DNS (Domain Name Server)
 DNS – Übersetzung von Rechnernamen in IP-Adressen
@@ -90,9 +89,6 @@ Das User Datagram Protocol, kurz UDP, ist ein minimales, verbindungsloses Netzwe
 |Sicherheit|besser|schlechter|
 |Geschwindigkeit|langsamer|schneller|
 
-
-## Experiment 3
-
 ## OpenSoundControl
 Open Sound Control (OSC) ist ein nachrichtenbasiertes Kommunikationsprotokoll, welches hauptsächlich für die Echtzeitverarbeitung von Sound über Netze und Multimedia-Installationen verwendet wird. Steuersignale können von Hardware (z. B. MIDI-Keyboard) oder Software (z. B. Processing, Vvvv, Csound, Max/MSP, Pure Data, SuperCollider, ChucK, EyesWeb) erzeugt.
 
@@ -116,27 +112,30 @@ Dann folgen die einzelnen Werte für die Parameter. Will man an unserem imaginä
 /synthesizer/zynaddsubfx/filter/lowpass1/resonance "f" 1998.4f.
 
 ![](Klasse11/OSC_address.png)
+
+### Experiment 4
+OSC Message-Sendung mit Max
+![](Klasse11/osc.png)
+
 ## Terminologien
 
 1. IP Address
 2. IP v4
-3. IP v6
-4. MAC Address
-5. Ping
-4. LAN
-5. WAN
-6. Router
-7. NAT
-8. ping
-9. DNS (Domain Name Server)
-10. Switcher
-11. LAN
-12. WAN
-13. NAT
-14. DNS
-15. PORT
-17. TCP
-18. UDP
-19. OpenSoundControl
-20. OSC Address
-21. OSC Argument
+3. MAC Address
+4. Ping
+5. LAN
+6. WAN
+7. Router
+8. DHCP
+9. NAT
+10. ping
+11. DNS (Domain Name Server)
+12. Switcher
+13. LAN
+14. WAN
+15. NAT
+16. DNS
+17. PORT
+18. TCP
+19. UDP
+20. OpenSoundControl
