@@ -2,7 +2,7 @@
 
 # Psychoakustik (Psychoacoustics)
 　
-Die Psychoakustik ist ein Teilgebiet der Psychophysik. Sie befasst sich mit der Beschreibung des Zusammenhanges der menschlichen Empfindung von Schall als Hörereignis und mit dessen physikalischen Schallfeldgrößen als Schallereignis. Die Verarbeitung physikalischer Signale zu einem Höreindruck wird dabei in mehreren Stufen modelliert. Diese werden dem einzelnen Ohr und der kognitiven Signalverarbeitung zugeordnet. 
+Die Psychoakustik ist ein Teilgebiet der Psychophysik. Sie befasst sich mit der Beschreibung des Zusammenhanges der menschlichen Empfindung von Schall als Hörereignis und mit dessen physikalischen Schallfeldgrößen als Schallereignis. Die Verarbeitung physikalischer Signale zu einem Höreindruck wird dabei in mehreren Stufen modelliert. Diese werden dem einzelnen Ohr und der kognitiven Signalverarbeitung zugeordnet.
 
 ## Gehörrichtige Lautstärke (Equal-loudness contour)
 beschriebt wie Schallaufnahmen so wiedergegeben werden, dass sie bei unterschiedlichen Lautstärken einen ähnlichen Höreindruck ergeben.
@@ -74,12 +74,10 @@ Ein Schallpegelmesser ist ein Messgerät zur Bestimmung von Schalldruckpegeln. S
 ![](Klasse12/sl.jpg)
 ![](Klasse12/messer.jpeg) an einem Flughafen
 
-
 ### Residualton (missing fundamental)
 Residualton ist ein von F. J. Schouten eingeführter Begriff für ein psychoakustisches Phänomen. Bei der Präsentation eines akustischen Signals in Form einer periodischen Schwingung, bei der der Grundton nur sehr schwach oder gar nicht vorhanden ist, ergibt sich trotzdem eine Tonhöhenwahrnehmung, die diesem fehlenden Grundton entspricht. Auch von der Klangfarbe her wird das Fehlen des Grundtons oft weniger deutlich empfunden, als zu erwarten wäre. Diesen „hinzugefügten“ Grundton bezeichnet man als Residualton.
 
-
-#### Experiment 3
+#### Experiment
 Erzeugen Sie einen Resudualton mit Max
 ![](Klasse12/missing_fundamental.png)
 
