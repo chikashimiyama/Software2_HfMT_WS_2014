@@ -43,11 +43,6 @@ sind Netzwerkgeräte, die Netzwerkpakete zwischen mehreren Rechnernetzen weiterl
 
 ![](Klasse11/router.jpeg)
 
-### NAT
-Network Address Translation (NAT) ist in Rechnernetzen der Sammelbegriff für Verfahren, die automatisiert Adressinformationen in Datenpaketen durch andere ersetzen, um verschiedene Netze zu verbinden. Daher kommen sie typischerweise auf **Routern** zum Einsatz.
-
-![](Klasse11/ip.png)
-
 ### DHCP
 Das Dynamic Host Configuration Protocol (DHCP) ist ein Kommunikationsprotokoll in der Computertechnik. Es ermöglicht die Zuweisung der Netzwerkkonfiguration an Clients durch einen Server. Durch DHCP ist die automatische Einbindung eines Computers in ein bestehendes Netzwerk ohne dessen manuelle Konfiguration möglich. An diesem, dem Client, muss im Normalfall lediglich der automatische Bezug der IP-Adresse eingestellt sein. Beim Start des Rechners am Netz kann er die IP-Adresse, die Netzmaske, das Gateway und DNS-Server. Ohne DHCP sind dazu – abhängig vom Netzwerk, an das der Rechner angeschlossen werden soll – einige Einstellungen nötig.
 
@@ -127,7 +122,6 @@ OSC Message-Sendung mit Max
 6. WAN
 7. Router
 8. DHCP
-9. NAT
 10. ping
 11. DNS (Domain Name Server)
 12. Switcher

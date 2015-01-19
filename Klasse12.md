@@ -2,6 +2,8 @@
 
 # Psychoakustik (Psychoacoustics)
 　
+Die Psychoakustik ist ein Teilgebiet der Psychophysik. Sie befasst sich mit der Beschreibung des Zusammenhanges der menschlichen Empfindung von Schall als Hörereignis und mit dessen physikalischen Schallfeldgrößen als Schallereignis. Die Verarbeitung physikalischer Signale zu einem Höreindruck wird dabei in mehreren Stufen modelliert. Diese werden dem einzelnen Ohr und der kognitiven Signalverarbeitung zugeordnet. 
+
 ## Gehörrichtige Lautstärke (Equal-loudness contour)
 beschriebt wie Schallaufnahmen so wiedergegeben werden, dass sie bei unterschiedlichen Lautstärken einen ähnlichen Höreindruck ergeben.
 
@@ -10,7 +12,8 @@ beschriebt wie Schallaufnahmen so wiedergegeben werden, dass sie bei unterschied
 Die Lautstärkewahrnehmung ist stark frequenzabhängig. Die Abhängigkeit der Lautstärkewahrnehmung von der Frequenz fällt darüber hinaus für unterschiedliche Lautstärkepegel unterschiedlich aus.
 
 ## Lautstärke
-Die Lautstärke stellt der physikalisch messbaren Amplitude oder Stärke des Schalls, die vom Menschen wahrgenommene Lautheit als Lautheitsempfinden gegenüber.
+Die Lautstärke eines Schalls ist ein Maß dafür, wie laut er vom Menschen als Hörereignis empfunden wird.
+
 
 ## Bel/Dezibel (Bell/Decibel)
 Das Bel ist eine Hilfsmaßeinheit zur Kennzeichnung von Pegeln. Das Bel dient zur Kennzeichnung des **dekadischen Logarithmus** des Verhältnisses zweier gleichartiger Energie. In der Regel wird statt des Bels das Dezibel (Einheitenzeichen *dB*) verwendet, also der zehnte Teil eines Bels.
@@ -79,13 +82,6 @@ Residualton ist ein von F. J. Schouten eingeführter Begriff für ein psychoakus
 #### Experiment 3
 Erzeugen Sie einen Resudualton mit Max
 ![](Klasse12/missing_fundamental.png)
-
-### Kombinationston (combination tone)
-Kombinationstöne können bei gleichzeitigem Erklingen zweier unterschiedlicher Töne entstehen. Kombinationstöne treten besonders deutlich als Differenzfrequenz. Geschulte Musiker hören weitere Kombinationstöne als Differenzen und Summen der Vielfachen der Frequenzen. 
-
-#### Experiment 4
-Erzeugen Sie einen Kombinationston mit Max
-
 
 #### Links
 [Auditive Wahrnehmung und kritische Bandbreiten](http://www.netaudio.de/psychoakustik/Daten/startseite.htm)
